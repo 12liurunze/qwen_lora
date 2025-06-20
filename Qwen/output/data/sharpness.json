@@ -1,0 +1,2002 @@
+[
+  {
+    "image": "val_res_00001.jpg",
+    "sharpness": 3.2787110075078525
+  },
+  {
+    "image": "val_res_00002.jpg",
+    "sharpness": 3.238766922245364
+  },
+  {
+    "image": "val_res_00003.jpg",
+    "sharpness": 3.312943822022596
+  },
+  {
+    "image": "val_res_00004.jpg",
+    "sharpness": 3.467026986018796
+  },
+  {
+    "image": "val_res_00005.jpg",
+    "sharpness": 3.392282327485651
+  },
+  {
+    "image": "val_res_00006.jpg",
+    "sharpness": 3.312943822022596
+  },
+  {
+    "image": "val_res_00007.jpg",
+    "sharpness": 2.903853833090669
+  },
+  {
+    "image": "val_res_00008.jpg",
+    "sharpness": 3.277199877464463
+  },
+  {
+    "image": "val_res_00009.jpg",
+    "sharpness": 3.3191323390790792
+  },
+  {
+    "image": "val_res_00010.jpg",
+    "sharpness": 3.2773015650667867
+  },
+  {
+    "image": "val_res_00011.jpg",
+    "sharpness": 1.5130458129064606
+  },
+  {
+    "image": "val_res_00012.jpg",
+    "sharpness": 3.2412274721452405
+  },
+  {
+    "image": "val_res_00013.jpg",
+    "sharpness": 3.2440818807548544
+  },
+  {
+    "image": "val_res_00014.jpg",
+    "sharpness": 3.2440818807548544
+  },
+  {
+    "image": "val_res_00015.jpg",
+    "sharpness": 3.2412274721452405
+  },
+  {
+    "image": "val_res_00016.jpg",
+    "sharpness": 1.5130458129064606
+  },
+  {
+    "image": "val_res_00017.jpg",
+    "sharpness": 1.8125650313257937
+  },
+  {
+    "image": "val_res_00018.jpg",
+    "sharpness": 3.3174303660707496
+  },
+  {
+    "image": "val_res_00019.jpg",
+    "sharpness": 3.198538950786765
+  },
+  {
+    "image": "val_res_00020.jpg",
+    "sharpness": 3.155724753848435
+  },
+  {
+    "image": "val_res_00021.jpg",
+    "sharpness": 3.225846037108086
+  },
+  {
+    "image": "val_res_00022.jpg",
+    "sharpness": 3.015889794704214
+  },
+  {
+    "image": "val_res_00023.jpg",
+    "sharpness": 3.0194890790670637
+  },
+  {
+    "image": "val_res_00024.jpg",
+    "sharpness": 3.0105851062362596
+  },
+  {
+    "image": "val_res_00025.jpg",
+    "sharpness": 3.015889794704214
+  },
+  {
+    "image": "val_res_00026.jpg",
+    "sharpness": 3.2963534568668154
+  },
+  {
+    "image": "val_res_00027.jpg",
+    "sharpness": 3.2884763660952516
+  },
+  {
+    "image": "val_res_00028.jpg",
+    "sharpness": 3.0247543884292236
+  },
+  {
+    "image": "val_res_00029.jpg",
+    "sharpness": 3.1514858061191253
+  },
+  {
+    "image": "val_res_00030.jpg",
+    "sharpness": 3.2711645685295956
+  },
+  {
+    "image": "val_res_00031.jpg",
+    "sharpness": 3.0703439354125335
+  },
+  {
+    "image": "val_res_00032.jpg",
+    "sharpness": 3.4975472678276835
+  },
+  {
+    "image": "val_res_00033.jpg",
+    "sharpness": 3.499991948820251
+  },
+  {
+    "image": "val_res_00034.jpg",
+    "sharpness": 3.0703439354125335
+  },
+  {
+    "image": "val_res_00035.jpg",
+    "sharpness": 3.0619795624437
+  },
+  {
+    "image": "val_res_00036.jpg",
+    "sharpness": 3.1089836127193764
+  },
+  {
+    "image": "val_res_00037.jpg",
+    "sharpness": 3.062673925459522
+  },
+  {
+    "image": "val_res_00038.jpg",
+    "sharpness": 3.575115415169801
+  },
+  {
+    "image": "val_res_00039.jpg",
+    "sharpness": 3.105069359150306
+  },
+  {
+    "image": "val_res_00040.jpg",
+    "sharpness": 3.116033310281737
+  },
+  {
+    "image": "val_res_00041.jpg",
+    "sharpness": 3.0312365323109858
+  },
+  {
+    "image": "val_res_00042.jpg",
+    "sharpness": 3.034531413777798
+  },
+  {
+    "image": "val_res_00043.jpg",
+    "sharpness": 3.027543662199551
+  },
+  {
+    "image": "val_res_00044.jpg",
+    "sharpness": 3.0312365323109858
+  },
+  {
+    "image": "val_res_00045.jpg",
+    "sharpness": 3.034531413777798
+  },
+  {
+    "image": "val_res_00046.jpg",
+    "sharpness": 3.027543662199551
+  },
+  {
+    "image": "val_res_00047.jpg",
+    "sharpness": 3.0650948331347765
+  },
+  {
+    "image": "val_res_00048.jpg",
+    "sharpness": 3.5250703993803834
+  },
+  {
+    "image": "val_res_00049.jpg",
+    "sharpness": 3.3467258789578596
+  },
+  {
+    "image": "val_res_00050.jpg",
+    "sharpness": 3.0685279013303295
+  },
+  {
+    "image": "val_res_00051.jpg",
+    "sharpness": 2.9188688835442527
+  },
+  {
+    "image": "val_res_00052.jpg",
+    "sharpness": 2.9403797966069596
+  },
+  {
+    "image": "val_res_00053.jpg",
+    "sharpness": 2.9439422843286787
+  },
+  {
+    "image": "val_res_00054.jpg",
+    "sharpness": 2.9188688835442527
+  },
+  {
+    "image": "val_res_00055.jpg",
+    "sharpness": 2.9403797966069596
+  },
+  {
+    "image": "val_res_00056.jpg",
+    "sharpness": 2.9439422843286787
+  },
+  {
+    "image": "val_res_00057.jpg",
+    "sharpness": 3.0136720625254436
+  },
+  {
+    "image": "val_res_00058.jpg",
+    "sharpness": 3.1003645536145754
+  },
+  {
+    "image": "val_res_00059.jpg",
+    "sharpness": 2.9999675233348966
+  },
+  {
+    "image": "val_res_00060.jpg",
+    "sharpness": 2.869180892317888
+  },
+  {
+    "image": "val_res_00061.jpg",
+    "sharpness": 3.055709576962454
+  },
+  {
+    "image": "val_res_00062.jpg",
+    "sharpness": 3.060239398101838
+  },
+  {
+    "image": "val_res_00063.jpg",
+    "sharpness": 3.309848195576458
+  },
+  {
+    "image": "val_res_00064.jpg",
+    "sharpness": 3.055709576962454
+  },
+  {
+    "image": "val_res_00065.jpg",
+    "sharpness": 3.060239398101838
+  },
+  {
+    "image": "val_res_00066.jpg",
+    "sharpness": 3.309848195576458
+  },
+  {
+    "image": "val_res_00067.jpg",
+    "sharpness": 2.8318074789542558
+  },
+  {
+    "image": "val_res_00068.jpg",
+    "sharpness": 3.011172643519717
+  },
+  {
+    "image": "val_res_00069.jpg",
+    "sharpness": 3.0208214411071403
+  },
+  {
+    "image": "val_res_00070.jpg",
+    "sharpness": 3.3059094761872583
+  },
+  {
+    "image": "val_res_00071.jpg",
+    "sharpness": 3.468968933784172
+  },
+  {
+    "image": "val_res_00072.jpg",
+    "sharpness": 2.9724994550281596
+  },
+  {
+    "image": "val_res_00073.jpg",
+    "sharpness": 2.973698938008968
+  },
+  {
+    "image": "val_res_00074.jpg",
+    "sharpness": 3.022045089575248
+  },
+  {
+    "image": "val_res_00075.jpg",
+    "sharpness": 2.9724994550281596
+  },
+  {
+    "image": "val_res_00076.jpg",
+    "sharpness": 3.174773584969739
+  },
+  {
+    "image": "val_res_00077.jpg",
+    "sharpness": 1.8027095873477168
+  },
+  {
+    "image": "val_res_00078.jpg",
+    "sharpness": 3.0122417899978644
+  },
+  {
+    "image": "val_res_00079.jpg",
+    "sharpness": 2.9656852329520107
+  },
+  {
+    "image": "val_res_00080.jpg",
+    "sharpness": 1.912369630720507
+  },
+  {
+    "image": "val_res_00081.jpg",
+    "sharpness": 3.1905768869366584
+  },
+  {
+    "image": "val_res_00082.jpg",
+    "sharpness": 3.2317775792405277
+  },
+  {
+    "image": "val_res_00083.jpg",
+    "sharpness": 3.097813046338848
+  },
+  {
+    "image": "val_res_00084.jpg",
+    "sharpness": 3.1905768869366584
+  },
+  {
+    "image": "val_res_00085.jpg",
+    "sharpness": 3.2317775792405277
+  },
+  {
+    "image": "val_res_00086.jpg",
+    "sharpness": 3.097813046338848
+  },
+  {
+    "image": "val_res_00087.jpg",
+    "sharpness": 3.053807095708065
+  },
+  {
+    "image": "val_res_00088.jpg",
+    "sharpness": 3.094899506109115
+  },
+  {
+    "image": "val_res_00089.jpg",
+    "sharpness": 3.13747637270989
+  },
+  {
+    "image": "val_res_00090.jpg",
+    "sharpness": 3.1393760876193633
+  },
+  {
+    "image": "val_res_00091.jpg",
+    "sharpness": 3.10681117665067
+  },
+  {
+    "image": "val_res_00092.jpg",
+    "sharpness": 3.0975365111363113
+  },
+  {
+    "image": "val_res_00093.jpg",
+    "sharpness": 3.1856864652959076
+  },
+  {
+    "image": "val_res_00094.jpg",
+    "sharpness": 1.8966696886575116
+  },
+  {
+    "image": "val_res_00095.jpg",
+    "sharpness": 1.9080983682914705
+  },
+  {
+    "image": "val_res_00096.jpg",
+    "sharpness": 3.1856864652959076
+  },
+  {
+    "image": "val_res_00097.jpg",
+    "sharpness": 3.1460108058627627
+  },
+  {
+    "image": "val_res_00098.jpg",
+    "sharpness": 3.00941513568457
+  },
+  {
+    "image": "val_res_00099.jpg",
+    "sharpness": 3.064054016151789
+  },
+  {
+    "image": "val_res_00100.jpg",
+    "sharpness": 3.1033982570648955
+  },
+  {
+    "image": "val_res_00101.jpg",
+    "sharpness": 3.1996428704415987
+  },
+  {
+    "image": "val_res_00102.jpg",
+    "sharpness": 3.195123639602661
+  },
+  {
+    "image": "val_res_00103.jpg",
+    "sharpness": 3.197480660959022
+  },
+  {
+    "image": "val_res_00104.jpg",
+    "sharpness": 3.1996428704415987
+  },
+  {
+    "image": "val_res_00105.jpg",
+    "sharpness": 3.195123639602661
+  },
+  {
+    "image": "val_res_00106.jpg",
+    "sharpness": 3.197480660959022
+  },
+  {
+    "image": "val_res_00107.jpg",
+    "sharpness": 3.197597325084725
+  },
+  {
+    "image": "val_res_00108.jpg",
+    "sharpness": 3.198146268274746
+  },
+  {
+    "image": "val_res_00109.jpg",
+    "sharpness": 2.8975711034213374
+  },
+  {
+    "image": "val_res_00110.jpg",
+    "sharpness": 3.1994558286321833
+  },
+  {
+    "image": "val_res_00111.jpg",
+    "sharpness": 3.0354443109733413
+  },
+  {
+    "image": "val_res_00112.jpg",
+    "sharpness": 3.0747246564289075
+  },
+  {
+    "image": "val_res_00113.jpg",
+    "sharpness": 3.1151235588859167
+  },
+  {
+    "image": "val_res_00114.jpg",
+    "sharpness": 3.1144721371779758
+  },
+  {
+    "image": "val_res_00115.jpg",
+    "sharpness": 3.0747246564289075
+  },
+  {
+    "image": "val_res_00116.jpg",
+    "sharpness": 3.0778869675686034
+  },
+  {
+    "image": "val_res_00117.jpg",
+    "sharpness": 3.112940444651526
+  },
+  {
+    "image": "val_res_00118.jpg",
+    "sharpness": 3.1150699775381008
+  },
+  {
+    "image": "val_res_00119.jpg",
+    "sharpness": 3.158301932419063
+  },
+  {
+    "image": "val_res_00120.jpg",
+    "sharpness": 3.1607502701151318
+  },
+  {
+    "image": "val_res_00121.jpg",
+    "sharpness": 3.199145287667279
+  },
+  {
+    "image": "val_res_00122.jpg",
+    "sharpness": 3.2031182491821304
+  },
+  {
+    "image": "val_res_00123.jpg",
+    "sharpness": 3.1983989143168046
+  },
+  {
+    "image": "val_res_00124.jpg",
+    "sharpness": 3.199145287667279
+  },
+  {
+    "image": "val_res_00125.jpg",
+    "sharpness": 3.2031182491821304
+  },
+  {
+    "image": "val_res_00126.jpg",
+    "sharpness": 3.1983989143168046
+  },
+  {
+    "image": "val_res_00127.jpg",
+    "sharpness": 3.2031182491821304
+  },
+  {
+    "image": "val_res_00128.jpg",
+    "sharpness": 3.1633165575766764
+  },
+  {
+    "image": "val_res_00129.jpg",
+    "sharpness": 3.2383455327851403
+  },
+  {
+    "image": "val_res_00130.jpg",
+    "sharpness": 3.2014732180338696
+  },
+  {
+    "image": "val_res_00131.jpg",
+    "sharpness": 3.255626195300037
+  },
+  {
+    "image": "val_res_00132.jpg",
+    "sharpness": 3.2896988874301436
+  },
+  {
+    "image": "val_res_00133.jpg",
+    "sharpness": 3.3020685953286995
+  },
+  {
+    "image": "val_res_00134.jpg",
+    "sharpness": 3.255626195300037
+  },
+  {
+    "image": "val_res_00135.jpg",
+    "sharpness": 3.2896988874301436
+  },
+  {
+    "image": "val_res_00136.jpg",
+    "sharpness": 3.3020685953286995
+  },
+  {
+    "image": "val_res_00137.jpg",
+    "sharpness": 3.200193614830129
+  },
+  {
+    "image": "val_res_00138.jpg",
+    "sharpness": 3.303012217328165
+  },
+  {
+    "image": "val_res_00139.jpg",
+    "sharpness": 3.2027938664836952
+  },
+  {
+    "image": "val_res_00140.jpg",
+    "sharpness": 3.2516823761618725
+  },
+  {
+    "image": "val_res_00141.jpg",
+    "sharpness": 3.2018406536184907
+  },
+  {
+    "image": "val_res_00142.jpg",
+    "sharpness": 3.2026239666084373
+  },
+  {
+    "image": "val_res_00143.jpg",
+    "sharpness": 3.1202520422821256
+  },
+  {
+    "image": "val_res_00144.jpg",
+    "sharpness": 3.2018406536184907
+  },
+  {
+    "image": "val_res_00145.jpg",
+    "sharpness": 3.2026239666084373
+  },
+  {
+    "image": "val_res_00146.jpg",
+    "sharpness": 3.1202520422821256
+  },
+  {
+    "image": "val_res_00147.jpg",
+    "sharpness": 3.1998364827657264
+  },
+  {
+    "image": "val_res_00148.jpg",
+    "sharpness": 3.1998364827657264
+  },
+  {
+    "image": "val_res_00149.jpg",
+    "sharpness": 3.1998364827657264
+  },
+  {
+    "image": "val_res_00150.jpg",
+    "sharpness": 3.2001857066370447
+  },
+  {
+    "image": "val_res_00151.jpg",
+    "sharpness": 3.0639663166533615
+  },
+  {
+    "image": "val_res_00152.jpg",
+    "sharpness": 3.6012627597166267
+  },
+  {
+    "image": "val_res_00153.jpg",
+    "sharpness": 3.590481017898823
+  },
+  {
+    "image": "val_res_00154.jpg",
+    "sharpness": 3.0639663166533615
+  },
+  {
+    "image": "val_res_00155.jpg",
+    "sharpness": 3.0162084937749722
+  },
+  {
+    "image": "val_res_00156.jpg",
+    "sharpness": 3.026748655528784
+  },
+  {
+    "image": "val_res_00157.jpg",
+    "sharpness": 3.067151458518211
+  },
+  {
+    "image": "val_res_00158.jpg",
+    "sharpness": 2.984715554548152
+  },
+  {
+    "image": "val_res_00159.jpg",
+    "sharpness": 3.0237389645191133
+  },
+  {
+    "image": "val_res_00160.jpg",
+    "sharpness": 3.063114408218782
+  },
+  {
+    "image": "val_res_00161.jpg",
+    "sharpness": 2.9852659032192124
+  },
+  {
+    "image": "val_res_00162.jpg",
+    "sharpness": 3.195123639602661
+  },
+  {
+    "image": "val_res_00163.jpg",
+    "sharpness": 3.2355324265543493
+  },
+  {
+    "image": "val_res_00164.jpg",
+    "sharpness": 3.190743776778703
+  },
+  {
+    "image": "val_res_00165.jpg",
+    "sharpness": 3.195123639602661
+  },
+  {
+    "image": "val_res_00166.jpg",
+    "sharpness": 2.7549213138130964
+  },
+  {
+    "image": "val_res_00167.jpg",
+    "sharpness": 3.310014587132419
+  },
+  {
+    "image": "val_res_00168.jpg",
+    "sharpness": 3.2348071670043916
+  },
+  {
+    "image": "val_res_00169.jpg",
+    "sharpness": 3.2348572027304296
+  },
+  {
+    "image": "val_res_00170.jpg",
+    "sharpness": 3.061935907776409
+  },
+  {
+    "image": "val_res_00171.jpg",
+    "sharpness": 3.2780620473916207
+  },
+  {
+    "image": "val_res_00172.jpg",
+    "sharpness": 3.155096447319882
+  },
+  {
+    "image": "val_res_00173.jpg",
+    "sharpness": 3.148508645859805
+  },
+  {
+    "image": "val_res_00174.jpg",
+    "sharpness": 3.155096447319882
+  },
+  {
+    "image": "val_res_00175.jpg",
+    "sharpness": 3.148508645859805
+  },
+  {
+    "image": "val_res_00176.jpg",
+    "sharpness": 3.147213245776981
+  },
+  {
+    "image": "val_res_00177.jpg",
+    "sharpness": 3.5985206427996785
+  },
+  {
+    "image": "val_res_00178.jpg",
+    "sharpness": 3.186243331746464
+  },
+  {
+    "image": "val_res_00179.jpg",
+    "sharpness": 3.1523588678943018
+  },
+  {
+    "image": "val_res_00180.jpg",
+    "sharpness": 3.192886838747921
+  },
+  {
+    "image": "val_res_00181.jpg",
+    "sharpness": 3.1128868388393425
+  },
+  {
+    "image": "val_res_00182.jpg",
+    "sharpness": 2.1971468418551163
+  },
+  {
+    "image": "val_res_00183.jpg",
+    "sharpness": 3.077160513112252
+  },
+  {
+    "image": "val_res_00184.jpg",
+    "sharpness": 3.320435302474058
+  },
+  {
+    "image": "val_res_00185.jpg",
+    "sharpness": 3.111106874873445
+  },
+  {
+    "image": "val_res_00186.jpg",
+    "sharpness": 3.077160513112252
+  },
+  {
+    "image": "val_res_00187.jpg",
+    "sharpness": 3.1166921003849035
+  },
+  {
+    "image": "val_res_00188.jpg",
+    "sharpness": 3.6526965094805384
+  },
+  {
+    "image": "val_res_00189.jpg",
+    "sharpness": 3.0754169389982158
+  },
+  {
+    "image": "val_res_00190.jpg",
+    "sharpness": 3.077121769920044
+  },
+  {
+    "image": "val_res_00191.jpg",
+    "sharpness": 2.543806563399996
+  },
+  {
+    "image": "val_res_00192.jpg",
+    "sharpness": 2.982922196658713
+  },
+  {
+    "image": "val_res_00193.jpg",
+    "sharpness": 3.0264059871514446
+  },
+  {
+    "image": "val_res_00194.jpg",
+    "sharpness": 2.9903040894118433
+  },
+  {
+    "image": "val_res_00195.jpg",
+    "sharpness": 2.982922196658713
+  },
+  {
+    "image": "val_res_00196.jpg",
+    "sharpness": 2.6711770627509743
+  },
+  {
+    "image": "val_res_00197.jpg",
+    "sharpness": 2.8376907545018364
+  },
+  {
+    "image": "val_res_00198.jpg",
+    "sharpness": 3.117614411038076
+  },
+  {
+    "image": "val_res_00199.jpg",
+    "sharpness": 3.1169659434478243
+  },
+  {
+    "image": "val_res_00200.jpg",
+    "sharpness": 3.077209301694786
+  },
+  {
+    "image": "val_res_00201.jpg",
+    "sharpness": 3.0175131109513256
+  },
+  {
+    "image": "val_res_00202.jpg",
+    "sharpness": 3.0181381597687507
+  },
+  {
+    "image": "val_res_00203.jpg",
+    "sharpness": 3.061184503953112
+  },
+  {
+    "image": "val_res_00204.jpg",
+    "sharpness": 3.0175131109513256
+  },
+  {
+    "image": "val_res_00205.jpg",
+    "sharpness": 3.0181381597687507
+  },
+  {
+    "image": "val_res_00206.jpg",
+    "sharpness": 3.061184503953112
+  },
+  {
+    "image": "val_res_00207.jpg",
+    "sharpness": 3.0227297188704574
+  },
+  {
+    "image": "val_res_00208.jpg",
+    "sharpness": 2.9728026372743894
+  },
+  {
+    "image": "val_res_00209.jpg",
+    "sharpness": 3.5331330055056127
+  },
+  {
+    "image": "val_res_00210.jpg",
+    "sharpness": 3.0669501989281667
+  },
+  {
+    "image": "val_res_00211.jpg",
+    "sharpness": 3.0105827150482134
+  },
+  {
+    "image": "val_res_00212.jpg",
+    "sharpness": 3.0035151293788456
+  },
+  {
+    "image": "val_res_00213.jpg",
+    "sharpness": 3.14618777550299
+  },
+  {
+    "image": "val_res_00214.jpg",
+    "sharpness": 2.898922188607359
+  },
+  {
+    "image": "val_res_00215.jpg",
+    "sharpness": 2.9751744371563027
+  },
+  {
+    "image": "val_res_00216.jpg",
+    "sharpness": 3.14618777550299
+  },
+  {
+    "image": "val_res_00217.jpg",
+    "sharpness": 2.898881028794462
+  },
+  {
+    "image": "val_res_00218.jpg",
+    "sharpness": 3.095521105584231
+  },
+  {
+    "image": "val_res_00219.jpg",
+    "sharpness": 3.0564072363551116
+  },
+  {
+    "image": "val_res_00220.jpg",
+    "sharpness": 3.0036698816690044
+  },
+  {
+    "image": "val_res_00221.jpg",
+    "sharpness": 3.074333883162123
+  },
+  {
+    "image": "val_res_00222.jpg",
+    "sharpness": 3.110551160421617
+  },
+  {
+    "image": "val_res_00223.jpg",
+    "sharpness": 3.068747503656697
+  },
+  {
+    "image": "val_res_00224.jpg",
+    "sharpness": 3.074333883162123
+  },
+  {
+    "image": "val_res_00225.jpg",
+    "sharpness": 3.110551160421617
+  },
+  {
+    "image": "val_res_00226.jpg",
+    "sharpness": 3.068747503656697
+  },
+  {
+    "image": "val_res_00227.jpg",
+    "sharpness": 3.156406257048795
+  },
+  {
+    "image": "val_res_00228.jpg",
+    "sharpness": 3.0650948331347765
+  },
+  {
+    "image": "val_res_00229.jpg",
+    "sharpness": 3.07255309908388
+  },
+  {
+    "image": "val_res_00230.jpg",
+    "sharpness": 3.069269256855669
+  },
+  {
+    "image": "val_res_00231.jpg",
+    "sharpness": 2.953368087640085
+  },
+  {
+    "image": "val_res_00232.jpg",
+    "sharpness": 3.0267658913733038
+  },
+  {
+    "image": "val_res_00233.jpg",
+    "sharpness": 3.113529749772354
+  },
+  {
+    "image": "val_res_00234.jpg",
+    "sharpness": 3.1551288531928097
+  },
+  {
+    "image": "val_res_00235.jpg",
+    "sharpness": 3.0267658913733038
+  },
+  {
+    "image": "val_res_00236.jpg",
+    "sharpness": 2.6608239139623944
+  },
+  {
+    "image": "val_res_00237.jpg",
+    "sharpness": 3.0216721275037264
+  },
+  {
+    "image": "val_res_00238.jpg",
+    "sharpness": 3.1089426359760584
+  },
+  {
+    "image": "val_res_00239.jpg",
+    "sharpness": 3.0690172783105196
+  },
+  {
+    "image": "val_res_00240.jpg",
+    "sharpness": 3.0683518374902015
+  },
+  {
+    "image": "val_res_00241.jpg",
+    "sharpness": 3.1570583664745913
+  },
+  {
+    "image": "val_res_00242.jpg",
+    "sharpness": 3.0583880347642185
+  },
+  {
+    "image": "val_res_00243.jpg",
+    "sharpness": 3.061033644326507
+  },
+  {
+    "image": "val_res_00244.jpg",
+    "sharpness": 3.1570583664745913
+  },
+  {
+    "image": "val_res_00245.jpg",
+    "sharpness": 3.0583880347642185
+  },
+  {
+    "image": "val_res_00246.jpg",
+    "sharpness": 3.061033644326507
+  },
+  {
+    "image": "val_res_00247.jpg",
+    "sharpness": 3.426525006683633
+  },
+  {
+    "image": "val_res_00248.jpg",
+    "sharpness": 3.1445334157942204
+  },
+  {
+    "image": "val_res_00249.jpg",
+    "sharpness": 3.115350924375653
+  },
+  {
+    "image": "val_res_00250.jpg",
+    "sharpness": 3.1074632018600394
+  },
+  {
+    "image": "val_res_00251.jpg",
+    "sharpness": 3.104867895657934
+  },
+  {
+    "image": "val_res_00252.jpg",
+    "sharpness": 2.5205494628717737
+  },
+  {
+    "image": "val_res_00253.jpg",
+    "sharpness": 3.1603689683926106
+  },
+  {
+    "image": "val_res_00254.jpg",
+    "sharpness": 3.104867895657934
+  },
+  {
+    "image": "val_res_00255.jpg",
+    "sharpness": 3.0665746679116483
+  },
+  {
+    "image": "val_res_00256.jpg",
+    "sharpness": 3.1247839439493745
+  },
+  {
+    "image": "val_res_00257.jpg",
+    "sharpness": 3.1503689171052756
+  },
+  {
+    "image": "val_res_00258.jpg",
+    "sharpness": 2.7845540502683974
+  },
+  {
+    "image": "val_res_00259.jpg",
+    "sharpness": 3.148002421343369
+  },
+  {
+    "image": "val_res_00260.jpg",
+    "sharpness": 3.1469069312456375
+  },
+  {
+    "image": "val_res_00261.jpg",
+    "sharpness": 3.1521096266785618
+  },
+  {
+    "image": "val_res_00262.jpg",
+    "sharpness": 3.151407593708606
+  },
+  {
+    "image": "val_res_00263.jpg",
+    "sharpness": 3.104944924821378
+  },
+  {
+    "image": "val_res_00264.jpg",
+    "sharpness": 3.1521096266785618
+  },
+  {
+    "image": "val_res_00265.jpg",
+    "sharpness": 3.151407593708606
+  },
+  {
+    "image": "val_res_00266.jpg",
+    "sharpness": 3.104944924821378
+  },
+  {
+    "image": "val_res_00267.jpg",
+    "sharpness": 3.19250356205369
+  },
+  {
+    "image": "val_res_00268.jpg",
+    "sharpness": 2.2180832883408463
+  },
+  {
+    "image": "val_res_00269.jpg",
+    "sharpness": 3.151407593708606
+  },
+  {
+    "image": "val_res_00270.jpg",
+    "sharpness": 3.1513128672470287
+  },
+  {
+    "image": "val_res_00271.jpg",
+    "sharpness": 2.514855256197129
+  },
+  {
+    "image": "val_res_00272.jpg",
+    "sharpness": 3.0703354536704697
+  },
+  {
+    "image": "val_res_00273.jpg",
+    "sharpness": 3.1919592931310343
+  },
+  {
+    "image": "val_res_00274.jpg",
+    "sharpness": 3.110551160421617
+  },
+  {
+    "image": "val_res_00275.jpg",
+    "sharpness": 3.0703354536704697
+  },
+  {
+    "image": "val_res_00276.jpg",
+    "sharpness": 2.6265774507594375
+  },
+  {
+    "image": "val_res_00277.jpg",
+    "sharpness": 2.8566955569391643
+  },
+  {
+    "image": "val_res_00278.jpg",
+    "sharpness": 3.1522673442967
+  },
+  {
+    "image": "val_res_00279.jpg",
+    "sharpness": 3.1468420546348
+  },
+  {
+    "image": "val_res_00280.jpg",
+    "sharpness": 2.4848568273718055
+  },
+  {
+    "image": "val_res_00281.jpg",
+    "sharpness": 3.156377593825468
+  },
+  {
+    "image": "val_res_00282.jpg",
+    "sharpness": 3.3483806505736045
+  },
+  {
+    "image": "val_res_00283.jpg",
+    "sharpness": 3.4224532986700815
+  },
+  {
+    "image": "val_res_00284.jpg",
+    "sharpness": 3.156377593825468
+  },
+  {
+    "image": "val_res_00285.jpg",
+    "sharpness": 3.152181699284957
+  },
+  {
+    "image": "val_res_00286.jpg",
+    "sharpness": 3.1121239741498163
+  },
+  {
+    "image": "val_res_00287.jpg",
+    "sharpness": 3.1955281093292127
+  },
+  {
+    "image": "val_res_00288.jpg",
+    "sharpness": 3.2377449086228
+  },
+  {
+    "image": "val_res_00289.jpg",
+    "sharpness": 3.1522764073306324
+  },
+  {
+    "image": "val_res_00290.jpg",
+    "sharpness": 3.197023864221406
+  },
+  {
+    "image": "val_res_00291.jpg",
+    "sharpness": 3.063727257406091
+  },
+  {
+    "image": "val_res_00292.jpg",
+    "sharpness": 3.06810795641696
+  },
+  {
+    "image": "val_res_00293.jpg",
+    "sharpness": 3.070623253277469
+  },
+  {
+    "image": "val_res_00294.jpg",
+    "sharpness": 3.2204285881442556
+  },
+  {
+    "image": "val_res_00295.jpg",
+    "sharpness": 3.2961996948970484
+  },
+  {
+    "image": "val_res_00296.jpg",
+    "sharpness": 3.070623253277469
+  },
+  {
+    "image": "val_res_00297.jpg",
+    "sharpness": 3.020150228563321
+  },
+  {
+    "image": "val_res_00298.jpg",
+    "sharpness": 3.115097418545727
+  },
+  {
+    "image": "val_res_00299.jpg",
+    "sharpness": 3.0147837053250894
+  },
+  {
+    "image": "val_res_00300.jpg",
+    "sharpness": 3.0697705862402698
+  },
+  {
+    "image": "val_res_00301.jpg",
+    "sharpness": 3.073024329287919
+  },
+  {
+    "image": "val_res_00302.jpg",
+    "sharpness": 3.026566978302631
+  },
+  {
+    "image": "val_res_00303.jpg",
+    "sharpness": 3.019272314362303
+  },
+  {
+    "image": "val_res_00304.jpg",
+    "sharpness": 3.073024329287919
+  },
+  {
+    "image": "val_res_00305.jpg",
+    "sharpness": 3.026566978302631
+  },
+  {
+    "image": "val_res_00306.jpg",
+    "sharpness": 3.019272314362303
+  },
+  {
+    "image": "val_res_00307.jpg",
+    "sharpness": 3.112480572098563
+  },
+  {
+    "image": "val_res_00308.jpg",
+    "sharpness": 3.10673479719676
+  },
+  {
+    "image": "val_res_00309.jpg",
+    "sharpness": 3.070907635173881
+  },
+  {
+    "image": "val_res_00310.jpg",
+    "sharpness": 3.116776376617238
+  },
+  {
+    "image": "val_res_00311.jpg",
+    "sharpness": 3.1967787019334484
+  },
+  {
+    "image": "val_res_00312.jpg",
+    "sharpness": 3.192992549177958
+  },
+  {
+    "image": "val_res_00313.jpg",
+    "sharpness": 3.196220762796736
+  },
+  {
+    "image": "val_res_00314.jpg",
+    "sharpness": 3.1967787019334484
+  },
+  {
+    "image": "val_res_00315.jpg",
+    "sharpness": 3.192992549177958
+  },
+  {
+    "image": "val_res_00316.jpg",
+    "sharpness": 3.196220762796736
+  },
+  {
+    "image": "val_res_00317.jpg",
+    "sharpness": 3.155687511465663
+  },
+  {
+    "image": "val_res_00318.jpg",
+    "sharpness": 3.484938635761743
+  },
+  {
+    "image": "val_res_00319.jpg",
+    "sharpness": 3.1549938019316186
+  },
+  {
+    "image": "val_res_00320.jpg",
+    "sharpness": 3.155687511465663
+  },
+  {
+    "image": "val_res_00321.jpg",
+    "sharpness": 2.907356369826143
+  },
+  {
+    "image": "val_res_00322.jpg",
+    "sharpness": 1.6572832471922392
+  },
+  {
+    "image": "val_res_00323.jpg",
+    "sharpness": 3.094241650211096
+  },
+  {
+    "image": "val_res_00324.jpg",
+    "sharpness": 2.907356369826143
+  },
+  {
+    "image": "val_res_00325.jpg",
+    "sharpness": 1.6572832471922392
+  },
+  {
+    "image": "val_res_00326.jpg",
+    "sharpness": 3.094241650211096
+  },
+  {
+    "image": "val_res_00327.jpg",
+    "sharpness": 2.885147952506852
+  },
+  {
+    "image": "val_res_00328.jpg",
+    "sharpness": 2.9806836326508557
+  },
+  {
+    "image": "val_res_00329.jpg",
+    "sharpness": 2.9711062850687178
+  },
+  {
+    "image": "val_res_00330.jpg",
+    "sharpness": 2.9706677349138655
+  },
+  {
+    "image": "val_res_00331.jpg",
+    "sharpness": 3.072723768316492
+  },
+  {
+    "image": "val_res_00332.jpg",
+    "sharpness": 3.0777903292334843
+  },
+  {
+    "image": "val_res_00333.jpg",
+    "sharpness": 2.953836373843599
+  },
+  {
+    "image": "val_res_00334.jpg",
+    "sharpness": 1.9730365336304578
+  },
+  {
+    "image": "val_res_00335.jpg",
+    "sharpness": 1.9271212426855076
+  },
+  {
+    "image": "val_res_00336.jpg",
+    "sharpness": 2.953836373843599
+  },
+  {
+    "image": "val_res_00337.jpg",
+    "sharpness": 2.9898536769190325
+  },
+  {
+    "image": "val_res_00338.jpg",
+    "sharpness": 3.022221329594919
+  },
+  {
+    "image": "val_res_00339.jpg",
+    "sharpness": 3.112807259350832
+  },
+  {
+    "image": "val_res_00340.jpg",
+    "sharpness": 3.1143578268462213
+  },
+  {
+    "image": "val_res_00341.jpg",
+    "sharpness": 3.156929507475772
+  },
+  {
+    "image": "val_res_00342.jpg",
+    "sharpness": 3.1146741149814043
+  },
+  {
+    "image": "val_res_00343.jpg",
+    "sharpness": 3.0741600236580666
+  },
+  {
+    "image": "val_res_00344.jpg",
+    "sharpness": 2.8742624030092405
+  },
+  {
+    "image": "val_res_00345.jpg",
+    "sharpness": 2.92544262914428
+  },
+  {
+    "image": "val_res_00346.jpg",
+    "sharpness": 3.0741600236580666
+  },
+  {
+    "image": "val_res_00347.jpg",
+    "sharpness": 3.112040707428376
+  },
+  {
+    "image": "val_res_00348.jpg",
+    "sharpness": 3.1174310750743413
+  },
+  {
+    "image": "val_res_00349.jpg",
+    "sharpness": 3.1166153587647223
+  },
+  {
+    "image": "val_res_00350.jpg",
+    "sharpness": 2.7619913279952604
+  },
+  {
+    "image": "val_res_00351.jpg",
+    "sharpness": 2.617038655605197
+  },
+  {
+    "image": "val_res_00352.jpg",
+    "sharpness": 3.1987313863170814
+  },
+  {
+    "image": "val_res_00353.jpg",
+    "sharpness": 3.1562686917277096
+  },
+  {
+    "image": "val_res_00354.jpg",
+    "sharpness": 2.617038655605197
+  },
+  {
+    "image": "val_res_00355.jpg",
+    "sharpness": 3.1987313863170814
+  },
+  {
+    "image": "val_res_00356.jpg",
+    "sharpness": 3.1562686917277096
+  },
+  {
+    "image": "val_res_00357.jpg",
+    "sharpness": 3.1593851082929465
+  },
+  {
+    "image": "val_res_00358.jpg",
+    "sharpness": 3.115466694104192
+  },
+  {
+    "image": "val_res_00359.jpg",
+    "sharpness": 3.1983373846085787
+  },
+  {
+    "image": "val_res_00360.jpg",
+    "sharpness": 3.1155964300160703
+  },
+  {
+    "image": "val_res_00361.jpg",
+    "sharpness": 3.150022485521023
+  },
+  {
+    "image": "val_res_00362.jpg",
+    "sharpness": 3.1090632553544233
+  },
+  {
+    "image": "val_res_00363.jpg",
+    "sharpness": 3.1538049331821414
+  },
+  {
+    "image": "val_res_00364.jpg",
+    "sharpness": 3.57923460939202
+  },
+  {
+    "image": "val_res_00365.jpg",
+    "sharpness": 3.5497420570563936
+  },
+  {
+    "image": "val_res_00366.jpg",
+    "sharpness": 3.1538049331821414
+  },
+  {
+    "image": "val_res_00367.jpg",
+    "sharpness": 3.0993383955993608
+  },
+  {
+    "image": "val_res_00368.jpg",
+    "sharpness": 3.6019465801413837
+  },
+  {
+    "image": "val_res_00369.jpg",
+    "sharpness": 3.1083079946660574
+  },
+  {
+    "image": "val_res_00370.jpg",
+    "sharpness": 3.0623278244194925
+  },
+  {
+    "image": "val_res_00371.jpg",
+    "sharpness": 3.1604687229297443
+  },
+  {
+    "image": "val_res_00372.jpg",
+    "sharpness": 3.117524820589663
+  },
+  {
+    "image": "val_res_00373.jpg",
+    "sharpness": 3.2684717398338337
+  },
+  {
+    "image": "val_res_00374.jpg",
+    "sharpness": 3.1604687229297443
+  },
+  {
+    "image": "val_res_00375.jpg",
+    "sharpness": 3.107921594051926
+  },
+  {
+    "image": "val_res_00376.jpg",
+    "sharpness": 3.1141518865551925
+  },
+  {
+    "image": "val_res_00377.jpg",
+    "sharpness": 3.1152984188854616
+  },
+  {
+    "image": "val_res_00378.jpg",
+    "sharpness": 3.115300125738631
+  },
+  {
+    "image": "val_res_00379.jpg",
+    "sharpness": 3.0718471064966115
+  },
+  {
+    "image": "val_res_00380.jpg",
+    "sharpness": 3.1578493250258615
+  },
+  {
+    "image": "val_res_00381.jpg",
+    "sharpness": 3.154944890092617
+  },
+  {
+    "image": "val_res_00382.jpg",
+    "sharpness": 3.155997672654413
+  },
+  {
+    "image": "val_res_00383.jpg",
+    "sharpness": 3.2375922194005002
+  },
+  {
+    "image": "val_res_00384.jpg",
+    "sharpness": 3.154944890092617
+  },
+  {
+    "image": "val_res_00385.jpg",
+    "sharpness": 3.155997672654413
+  },
+  {
+    "image": "val_res_00386.jpg",
+    "sharpness": 3.2375922194005002
+  },
+  {
+    "image": "val_res_00387.jpg",
+    "sharpness": 3.1978738861329137
+  },
+  {
+    "image": "val_res_00388.jpg",
+    "sharpness": 3.1936132302480313
+  },
+  {
+    "image": "val_res_00389.jpg",
+    "sharpness": 3.1937611765520932
+  },
+  {
+    "image": "val_res_00390.jpg",
+    "sharpness": 3.1530924399993783
+  },
+  {
+    "image": "val_res_00391.jpg",
+    "sharpness": 3.2004257990628653
+  },
+  {
+    "image": "val_res_00392.jpg",
+    "sharpness": 3.159485341165394
+  },
+  {
+    "image": "val_res_00393.jpg",
+    "sharpness": 3.161311584881925
+  },
+  {
+    "image": "val_res_00394.jpg",
+    "sharpness": 3.2004257990628653
+  },
+  {
+    "image": "val_res_00395.jpg",
+    "sharpness": 3.159485341165394
+  },
+  {
+    "image": "val_res_00396.jpg",
+    "sharpness": 3.161311584881925
+  },
+  {
+    "image": "val_res_00397.jpg",
+    "sharpness": 3.1600124659971107
+  },
+  {
+    "image": "val_res_00398.jpg",
+    "sharpness": 3.2323196302096795
+  },
+  {
+    "image": "val_res_00399.jpg",
+    "sharpness": 3.1617803019851993
+  },
+  {
+    "image": "val_res_00400.jpg",
+    "sharpness": 3.161311584881925
+  },
+  {
+    "image": "val_res_00401.jpg",
+    "sharpness": 3.152887547371181
+  },
+  {
+    "image": "val_res_00402.jpg",
+    "sharpness": 2.7901443686713763
+  },
+  {
+    "image": "val_res_00403.jpg",
+    "sharpness": 2.679911870456166
+  },
+  {
+    "image": "val_res_00404.jpg",
+    "sharpness": 3.152887547371181
+  },
+  {
+    "image": "val_res_00405.jpg",
+    "sharpness": 3.1619412101506277
+  },
+  {
+    "image": "val_res_00406.jpg",
+    "sharpness": 3.1545369774171967
+  },
+  {
+    "image": "val_res_00407.jpg",
+    "sharpness": 3.1568565641619855
+  },
+  {
+    "image": "val_res_00408.jpg",
+    "sharpness": 3.1097446813696483
+  },
+  {
+    "image": "val_res_00409.jpg",
+    "sharpness": 3.1199269362660846
+  },
+  {
+    "image": "val_res_00410.jpg",
+    "sharpness": 3.1585763903890136
+  },
+  {
+    "image": "val_res_00411.jpg",
+    "sharpness": 3.1196767459932144
+  },
+  {
+    "image": "val_res_00412.jpg",
+    "sharpness": 2.53355508170075
+  },
+  {
+    "image": "val_res_00413.jpg",
+    "sharpness": 2.3451283959154425
+  },
+  {
+    "image": "val_res_00414.jpg",
+    "sharpness": 3.1196767459932144
+  },
+  {
+    "image": "val_res_00415.jpg",
+    "sharpness": 3.155524096620439
+  },
+  {
+    "image": "val_res_00416.jpg",
+    "sharpness": 3.160023206272779
+  },
+  {
+    "image": "val_res_00417.jpg",
+    "sharpness": 3.1194657017883873
+  },
+  {
+    "image": "val_res_00418.jpg",
+    "sharpness": 2.698713626948019
+  },
+  {
+    "image": "val_res_00419.jpg",
+    "sharpness": 3.1574509478565025
+  },
+  {
+    "image": "val_res_00420.jpg",
+    "sharpness": 3.1174373242716236
+  },
+  {
+    "image": "val_res_00421.jpg",
+    "sharpness": 3.1135407784552225
+  },
+  {
+    "image": "val_res_00422.jpg",
+    "sharpness": 1.8586720224019504
+  },
+  {
+    "image": "val_res_00423.jpg",
+    "sharpness": 1.890530530992682
+  },
+  {
+    "image": "val_res_00424.jpg",
+    "sharpness": 3.1135407784552225
+  },
+  {
+    "image": "val_res_00425.jpg",
+    "sharpness": 3.069460696384848
+  },
+  {
+    "image": "val_res_00426.jpg",
+    "sharpness": 3.0645135963607744
+  },
+  {
+    "image": "val_res_00427.jpg",
+    "sharpness": 3.1527457818781057
+  },
+  {
+    "image": "val_res_00428.jpg",
+    "sharpness": 3.0681483785181998
+  },
+  {
+    "image": "val_res_00429.jpg",
+    "sharpness": 1.463112207750078
+  },
+  {
+    "image": "val_res_00430.jpg",
+    "sharpness": 3.107056209255534
+  },
+  {
+    "image": "val_res_00431.jpg",
+    "sharpness": 3.2350218271115634
+  },
+  {
+    "image": "val_res_00432.jpg",
+    "sharpness": 3.3168041319587034
+  },
+  {
+    "image": "val_res_00433.jpg",
+    "sharpness": 3.2351812419994586
+  },
+  {
+    "image": "val_res_00434.jpg",
+    "sharpness": 3.2920145399199368
+  },
+  {
+    "image": "val_res_00435.jpg",
+    "sharpness": 3.340517594678902
+  },
+  {
+    "image": "val_res_00436.jpg",
+    "sharpness": 3.2351812419994586
+  },
+  {
+    "image": "val_res_00437.jpg",
+    "sharpness": 3.1997817196793528
+  },
+  {
+    "image": "val_res_00438.jpg",
+    "sharpness": 3.2771379756578263
+  },
+  {
+    "image": "val_res_00439.jpg",
+    "sharpness": 2.4694452477127276
+  },
+  {
+    "image": "val_res_00440.jpg",
+    "sharpness": 3.236157349918824
+  },
+  {
+    "image": "val_res_00441.jpg",
+    "sharpness": 3.559053357407082
+  },
+  {
+    "image": "val_res_00442.jpg",
+    "sharpness": 3.073651206941226
+  },
+  {
+    "image": "val_res_00443.jpg",
+    "sharpness": 3.1169507703530086
+  },
+  {
+    "image": "val_res_00444.jpg",
+    "sharpness": 3.0797866320021665
+  },
+  {
+    "image": "val_res_00445.jpg",
+    "sharpness": 3.073651206941226
+  },
+  {
+    "image": "val_res_00446.jpg",
+    "sharpness": 3.5882888963007398
+  },
+  {
+    "image": "val_res_00447.jpg",
+    "sharpness": 3.1177107981913377
+  },
+  {
+    "image": "val_res_00448.jpg",
+    "sharpness": 3.1194740945001778
+  },
+  {
+    "image": "val_res_00449.jpg",
+    "sharpness": 3.0731766677814507
+  },
+  {
+    "image": "val_res_00450.jpg",
+    "sharpness": 3.0767406844346197
+  },
+  {
+    "image": "val_res_00451.jpg",
+    "sharpness": 3.1979333931062177
+  },
+  {
+    "image": "val_res_00452.jpg",
+    "sharpness": 2.941286948029775
+  },
+  {
+    "image": "val_res_00453.jpg",
+    "sharpness": 3.1583971189992184
+  },
+  {
+    "image": "val_res_00454.jpg",
+    "sharpness": 3.1979333931062177
+  },
+  {
+    "image": "val_res_00455.jpg",
+    "sharpness": 3.1604687229297443
+  },
+  {
+    "image": "val_res_00456.jpg",
+    "sharpness": 3.1623343600553664
+  },
+  {
+    "image": "val_res_00457.jpg",
+    "sharpness": 3.2008767178809174
+  },
+  {
+    "image": "val_res_00458.jpg",
+    "sharpness": 3.1562700098766783
+  },
+  {
+    "image": "val_res_00459.jpg",
+    "sharpness": 3.198848171034019
+  },
+  {
+    "image": "val_res_00460.jpg",
+    "sharpness": 3.1983214465121206
+  },
+  {
+    "image": "val_res_00461.jpg",
+    "sharpness": 3.254630279813095
+  },
+  {
+    "image": "val_res_00462.jpg",
+    "sharpness": 3.342586457352837
+  },
+  {
+    "image": "val_res_00463.jpg",
+    "sharpness": 3.291615763330107
+  },
+  {
+    "image": "val_res_00464.jpg",
+    "sharpness": 3.254630279813095
+  },
+  {
+    "image": "val_res_00465.jpg",
+    "sharpness": 3.342586457352837
+  },
+  {
+    "image": "val_res_00466.jpg",
+    "sharpness": 3.291615763330107
+  },
+  {
+    "image": "val_res_00467.jpg",
+    "sharpness": 3.2929854626298805
+  },
+  {
+    "image": "val_res_00468.jpg",
+    "sharpness": 3.3867356179966817
+  },
+  {
+    "image": "val_res_00469.jpg",
+    "sharpness": 2.8442653795339403
+  },
+  {
+    "image": "val_res_00470.jpg",
+    "sharpness": 3.256148069436096
+  },
+  {
+    "image": "val_res_00471.jpg",
+    "sharpness": 2.9654288443070747
+  },
+  {
+    "image": "val_res_00472.jpg",
+    "sharpness": 3.1128260977274644
+  },
+  {
+    "image": "val_res_00473.jpg",
+    "sharpness": 3.113948097197559
+  },
+  {
+    "image": "val_res_00474.jpg",
+    "sharpness": 2.9654288443070747
+  },
+  {
+    "image": "val_res_00475.jpg",
+    "sharpness": 3.1128260977274644
+  },
+  {
+    "image": "val_res_00476.jpg",
+    "sharpness": 3.113948097197559
+  },
+  {
+    "image": "val_res_00477.jpg",
+    "sharpness": 3.1125444753853615
+  },
+  {
+    "image": "val_res_00478.jpg",
+    "sharpness": 2.970675160750501
+  },
+  {
+    "image": "val_res_00479.jpg",
+    "sharpness": 2.9209485706212384
+  },
+  {
+    "image": "val_res_00480.jpg",
+    "sharpness": 3.112430119016409
+  },
+  {
+    "image": "val_res_00481.jpg",
+    "sharpness": 3.2421536012284484
+  },
+  {
+    "image": "val_res_00482.jpg",
+    "sharpness": 3.198180889893312
+  },
+  {
+    "image": "val_res_00483.jpg",
+    "sharpness": 3.069013583890794
+  },
+  {
+    "image": "val_res_00484.jpg",
+    "sharpness": 3.2421536012284484
+  },
+  {
+    "image": "val_res_00485.jpg",
+    "sharpness": 3.198180889893312
+  },
+  {
+    "image": "val_res_00486.jpg",
+    "sharpness": 3.069013583890794
+  },
+  {
+    "image": "val_res_00487.jpg",
+    "sharpness": 3.154361442369529
+  },
+  {
+    "image": "val_res_00488.jpg",
+    "sharpness": 3.195571484422459
+  },
+  {
+    "image": "val_res_00489.jpg",
+    "sharpness": 3.2011019711176223
+  },
+  {
+    "image": "val_res_00490.jpg",
+    "sharpness": 3.4173467476178225
+  },
+  {
+    "image": "val_res_00491.jpg",
+    "sharpness": 3.157395567497623
+  },
+  {
+    "image": "val_res_00492.jpg",
+    "sharpness": 3.112940444651526
+  },
+  {
+    "image": "val_res_00493.jpg",
+    "sharpness": 3.1992515040522065
+  },
+  {
+    "image": "val_res_00494.jpg",
+    "sharpness": 3.157395567497623
+  },
+  {
+    "image": "val_res_00495.jpg",
+    "sharpness": 3.112940444651526
+  },
+  {
+    "image": "val_res_00496.jpg",
+    "sharpness": 3.1992515040522065
+  },
+  {
+    "image": "val_res_00497.jpg",
+    "sharpness": 3.1549380156381095
+  },
+  {
+    "image": "val_res_00498.jpg",
+    "sharpness": 3.1167623244125586
+  },
+  {
+    "image": "val_res_00499.jpg",
+    "sharpness": 3.1531626440525113
+  },
+  {
+    "image": "val_res_00500.jpg",
+    "sharpness": 2.2970111288894874
+  }
+]
