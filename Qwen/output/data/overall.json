@@ -1,0 +1,2002 @@
+[
+  {
+    "image": "val_res_00001.jpg",
+    "overall": 3.5979071236324
+  },
+  {
+    "image": "val_res_00002.jpg",
+    "overall": 3.5815821404539157
+  },
+  {
+    "image": "val_res_00003.jpg",
+    "overall": 3.5642499776878744
+  },
+  {
+    "image": "val_res_00004.jpg",
+    "overall": 3.433620603420043
+  },
+  {
+    "image": "val_res_00005.jpg",
+    "overall": 3.375521133962613
+  },
+  {
+    "image": "val_res_00006.jpg",
+    "overall": 3.5642499776878744
+  },
+  {
+    "image": "val_res_00007.jpg",
+    "overall": 3.113501984055347
+  },
+  {
+    "image": "val_res_00008.jpg",
+    "overall": 3.63041595439951
+  },
+  {
+    "image": "val_res_00009.jpg",
+    "overall": 3.6175434743626633
+  },
+  {
+    "image": "val_res_00010.jpg",
+    "overall": 3.600047392581209
+  },
+  {
+    "image": "val_res_00011.jpg",
+    "overall": 1.5053585496146908
+  },
+  {
+    "image": "val_res_00012.jpg",
+    "overall": 3.543409752501666
+  },
+  {
+    "image": "val_res_00013.jpg",
+    "overall": 3.5840849975401063
+  },
+  {
+    "image": "val_res_00014.jpg",
+    "overall": 3.5840849975401063
+  },
+  {
+    "image": "val_res_00015.jpg",
+    "overall": 3.543409752501666
+  },
+  {
+    "image": "val_res_00016.jpg",
+    "overall": 1.5053585496146908
+  },
+  {
+    "image": "val_res_00017.jpg",
+    "overall": 1.5254741502891989
+  },
+  {
+    "image": "val_res_00018.jpg",
+    "overall": 3.616082475370572
+  },
+  {
+    "image": "val_res_00019.jpg",
+    "overall": 3.5290510696224144
+  },
+  {
+    "image": "val_res_00020.jpg",
+    "overall": 3.5358154211716024
+  },
+  {
+    "image": "val_res_00021.jpg",
+    "overall": 3.3940943329318047
+  },
+  {
+    "image": "val_res_00022.jpg",
+    "overall": 3.2305882517126157
+  },
+  {
+    "image": "val_res_00023.jpg",
+    "overall": 3.284727503039791
+  },
+  {
+    "image": "val_res_00024.jpg",
+    "overall": 3.2358367674172026
+  },
+  {
+    "image": "val_res_00025.jpg",
+    "overall": 3.2305882517126157
+  },
+  {
+    "image": "val_res_00026.jpg",
+    "overall": 3.2903842993461345
+  },
+  {
+    "image": "val_res_00027.jpg",
+    "overall": 3.4285259455917503
+  },
+  {
+    "image": "val_res_00028.jpg",
+    "overall": 3.2903426088411307
+  },
+  {
+    "image": "val_res_00029.jpg",
+    "overall": 3.4419458739107096
+  },
+  {
+    "image": "val_res_00030.jpg",
+    "overall": 3.3714497952381395
+  },
+  {
+    "image": "val_res_00031.jpg",
+    "overall": 3.3055931791307103
+  },
+  {
+    "image": "val_res_00032.jpg",
+    "overall": 3.1024591117288516
+  },
+  {
+    "image": "val_res_00033.jpg",
+    "overall": 2.886198197442939
+  },
+  {
+    "image": "val_res_00034.jpg",
+    "overall": 3.3055931791307103
+  },
+  {
+    "image": "val_res_00035.jpg",
+    "overall": 3.355895161863987
+  },
+  {
+    "image": "val_res_00036.jpg",
+    "overall": 3.3980082675574903
+  },
+  {
+    "image": "val_res_00037.jpg",
+    "overall": 3.241648196396251
+  },
+  {
+    "image": "val_res_00038.jpg",
+    "overall": 3.09987640629372
+  },
+  {
+    "image": "val_res_00039.jpg",
+    "overall": 3.295521008270506
+  },
+  {
+    "image": "val_res_00040.jpg",
+    "overall": 3.3639079895588124
+  },
+  {
+    "image": "val_res_00041.jpg",
+    "overall": 3.1645522261180004
+  },
+  {
+    "image": "val_res_00042.jpg",
+    "overall": 3.2016709089673205
+  },
+  {
+    "image": "val_res_00043.jpg",
+    "overall": 3.255219230356918
+  },
+  {
+    "image": "val_res_00044.jpg",
+    "overall": 3.1645522261180004
+  },
+  {
+    "image": "val_res_00045.jpg",
+    "overall": 3.2016709089673205
+  },
+  {
+    "image": "val_res_00046.jpg",
+    "overall": 3.255219230356918
+  },
+  {
+    "image": "val_res_00047.jpg",
+    "overall": 3.2377730677570975
+  },
+  {
+    "image": "val_res_00048.jpg",
+    "overall": 3.4945859107747963
+  },
+  {
+    "image": "val_res_00049.jpg",
+    "overall": 3.3389693414309214
+  },
+  {
+    "image": "val_res_00050.jpg",
+    "overall": 3.235072169368172
+  },
+  {
+    "image": "val_res_00051.jpg",
+    "overall": 3.1203488506229315
+  },
+  {
+    "image": "val_res_00052.jpg",
+    "overall": 3.2167812704414454
+  },
+  {
+    "image": "val_res_00053.jpg",
+    "overall": 3.2874239519226367
+  },
+  {
+    "image": "val_res_00054.jpg",
+    "overall": 3.1203488506229315
+  },
+  {
+    "image": "val_res_00055.jpg",
+    "overall": 3.2167812704414454
+  },
+  {
+    "image": "val_res_00056.jpg",
+    "overall": 3.2874239519226367
+  },
+  {
+    "image": "val_res_00057.jpg",
+    "overall": 3.248086745134068
+  },
+  {
+    "image": "val_res_00058.jpg",
+    "overall": 3.340508086941838
+  },
+  {
+    "image": "val_res_00059.jpg",
+    "overall": 3.316940699154678
+  },
+  {
+    "image": "val_res_00060.jpg",
+    "overall": 3.199582741855469
+  },
+  {
+    "image": "val_res_00061.jpg",
+    "overall": 3.3960816781370666
+  },
+  {
+    "image": "val_res_00062.jpg",
+    "overall": 3.3950029068701393
+  },
+  {
+    "image": "val_res_00063.jpg",
+    "overall": 3.451584317235559
+  },
+  {
+    "image": "val_res_00064.jpg",
+    "overall": 3.3960816781370666
+  },
+  {
+    "image": "val_res_00065.jpg",
+    "overall": 3.3950029068701393
+  },
+  {
+    "image": "val_res_00066.jpg",
+    "overall": 3.451584317235559
+  },
+  {
+    "image": "val_res_00067.jpg",
+    "overall": 3.0482951493022856
+  },
+  {
+    "image": "val_res_00068.jpg",
+    "overall": 3.4200181414058264
+  },
+  {
+    "image": "val_res_00069.jpg",
+    "overall": 3.428462262953909
+  },
+  {
+    "image": "val_res_00070.jpg",
+    "overall": 3.454987842480843
+  },
+  {
+    "image": "val_res_00071.jpg",
+    "overall": 3.437915589342766
+  },
+  {
+    "image": "val_res_00072.jpg",
+    "overall": 3.3576469396242086
+  },
+  {
+    "image": "val_res_00073.jpg",
+    "overall": 3.3875205721306525
+  },
+  {
+    "image": "val_res_00074.jpg",
+    "overall": 3.4010524436364724
+  },
+  {
+    "image": "val_res_00075.jpg",
+    "overall": 3.3576469396242086
+  },
+  {
+    "image": "val_res_00076.jpg",
+    "overall": 2.8759317439775667
+  },
+  {
+    "image": "val_res_00077.jpg",
+    "overall": 1.7315799408819395
+  },
+  {
+    "image": "val_res_00078.jpg",
+    "overall": 3.3476225223596465
+  },
+  {
+    "image": "val_res_00079.jpg",
+    "overall": 3.2918500581476944
+  },
+  {
+    "image": "val_res_00080.jpg",
+    "overall": 2.322271819014396
+  },
+  {
+    "image": "val_res_00081.jpg",
+    "overall": 3.4714794115989793
+  },
+  {
+    "image": "val_res_00082.jpg",
+    "overall": 3.4953435540223383
+  },
+  {
+    "image": "val_res_00083.jpg",
+    "overall": 3.3951656016162306
+  },
+  {
+    "image": "val_res_00084.jpg",
+    "overall": 3.4714794115989793
+  },
+  {
+    "image": "val_res_00085.jpg",
+    "overall": 3.4953435540223383
+  },
+  {
+    "image": "val_res_00086.jpg",
+    "overall": 3.3951656016162306
+  },
+  {
+    "image": "val_res_00087.jpg",
+    "overall": 3.3858157043189268
+  },
+  {
+    "image": "val_res_00088.jpg",
+    "overall": 3.398237961278878
+  },
+  {
+    "image": "val_res_00089.jpg",
+    "overall": 3.398864338606042
+  },
+  {
+    "image": "val_res_00090.jpg",
+    "overall": 3.4221826020183492
+  },
+  {
+    "image": "val_res_00091.jpg",
+    "overall": 3.462251430418388
+  },
+  {
+    "image": "val_res_00092.jpg",
+    "overall": 3.42460967503956
+  },
+  {
+    "image": "val_res_00093.jpg",
+    "overall": 3.49767044712514
+  },
+  {
+    "image": "val_res_00094.jpg",
+    "overall": 1.7949605237609854
+  },
+  {
+    "image": "val_res_00095.jpg",
+    "overall": 1.7957329314621298
+  },
+  {
+    "image": "val_res_00096.jpg",
+    "overall": 3.49767044712514
+  },
+  {
+    "image": "val_res_00097.jpg",
+    "overall": 3.4688496016534516
+  },
+  {
+    "image": "val_res_00098.jpg",
+    "overall": 3.41528989888133
+  },
+  {
+    "image": "val_res_00099.jpg",
+    "overall": 3.437287996552401
+  },
+  {
+    "image": "val_res_00100.jpg",
+    "overall": 3.4657515469770384
+  },
+  {
+    "image": "val_res_00101.jpg",
+    "overall": 3.6494700213545923
+  },
+  {
+    "image": "val_res_00102.jpg",
+    "overall": 3.603466213665774
+  },
+  {
+    "image": "val_res_00103.jpg",
+    "overall": 3.61774709960254
+  },
+  {
+    "image": "val_res_00104.jpg",
+    "overall": 3.6494700213545923
+  },
+  {
+    "image": "val_res_00105.jpg",
+    "overall": 3.603466213665774
+  },
+  {
+    "image": "val_res_00106.jpg",
+    "overall": 3.61774709960254
+  },
+  {
+    "image": "val_res_00107.jpg",
+    "overall": 3.675678377443466
+  },
+  {
+    "image": "val_res_00108.jpg",
+    "overall": 3.6319466476506053
+  },
+  {
+    "image": "val_res_00109.jpg",
+    "overall": 2.764432234870859
+  },
+  {
+    "image": "val_res_00110.jpg",
+    "overall": 3.6494700213545923
+  },
+  {
+    "image": "val_res_00111.jpg",
+    "overall": 3.109222814511716
+  },
+  {
+    "image": "val_res_00112.jpg",
+    "overall": 3.5539100650407303
+  },
+  {
+    "image": "val_res_00113.jpg",
+    "overall": 3.602164416451311
+  },
+  {
+    "image": "val_res_00114.jpg",
+    "overall": 3.557891506624262
+  },
+  {
+    "image": "val_res_00115.jpg",
+    "overall": 3.5539100650407303
+  },
+  {
+    "image": "val_res_00116.jpg",
+    "overall": 3.0201396133931633
+  },
+  {
+    "image": "val_res_00117.jpg",
+    "overall": 3.541992252899366
+  },
+  {
+    "image": "val_res_00118.jpg",
+    "overall": 3.5881726075328353
+  },
+  {
+    "image": "val_res_00119.jpg",
+    "overall": 3.572331352711917
+  },
+  {
+    "image": "val_res_00120.jpg",
+    "overall": 3.6460562540764867
+  },
+  {
+    "image": "val_res_00121.jpg",
+    "overall": 3.5277372874044217
+  },
+  {
+    "image": "val_res_00122.jpg",
+    "overall": 3.5322501675585767
+  },
+  {
+    "image": "val_res_00123.jpg",
+    "overall": 3.543108550290225
+  },
+  {
+    "image": "val_res_00124.jpg",
+    "overall": 3.5277372874044217
+  },
+  {
+    "image": "val_res_00125.jpg",
+    "overall": 3.5322501675585767
+  },
+  {
+    "image": "val_res_00126.jpg",
+    "overall": 3.543108550290225
+  },
+  {
+    "image": "val_res_00127.jpg",
+    "overall": 3.585037635708673
+  },
+  {
+    "image": "val_res_00128.jpg",
+    "overall": 3.55679260622485
+  },
+  {
+    "image": "val_res_00129.jpg",
+    "overall": 3.6028777197298982
+  },
+  {
+    "image": "val_res_00130.jpg",
+    "overall": 3.5282355235846707
+  },
+  {
+    "image": "val_res_00131.jpg",
+    "overall": 3.711525968962088
+  },
+  {
+    "image": "val_res_00132.jpg",
+    "overall": 3.763315589856886
+  },
+  {
+    "image": "val_res_00133.jpg",
+    "overall": 3.7920115129491174
+  },
+  {
+    "image": "val_res_00134.jpg",
+    "overall": 3.711525968962088
+  },
+  {
+    "image": "val_res_00135.jpg",
+    "overall": 3.763315589856886
+  },
+  {
+    "image": "val_res_00136.jpg",
+    "overall": 3.7920115129491174
+  },
+  {
+    "image": "val_res_00137.jpg",
+    "overall": 3.694888912145923
+  },
+  {
+    "image": "val_res_00138.jpg",
+    "overall": 3.788619107835414
+  },
+  {
+    "image": "val_res_00139.jpg",
+    "overall": 2.9366396726258785
+  },
+  {
+    "image": "val_res_00140.jpg",
+    "overall": 3.6387750186758536
+  },
+  {
+    "image": "val_res_00141.jpg",
+    "overall": 3.6779881592279304
+  },
+  {
+    "image": "val_res_00142.jpg",
+    "overall": 3.6971115797454295
+  },
+  {
+    "image": "val_res_00143.jpg",
+    "overall": 3.6034990843555588
+  },
+  {
+    "image": "val_res_00144.jpg",
+    "overall": 3.6779881592279304
+  },
+  {
+    "image": "val_res_00145.jpg",
+    "overall": 3.6971115797454295
+  },
+  {
+    "image": "val_res_00146.jpg",
+    "overall": 3.6034990843555588
+  },
+  {
+    "image": "val_res_00147.jpg",
+    "overall": 3.6446400068021374
+  },
+  {
+    "image": "val_res_00148.jpg",
+    "overall": 3.6779244998488543
+  },
+  {
+    "image": "val_res_00149.jpg",
+    "overall": 3.635700190373793
+  },
+  {
+    "image": "val_res_00150.jpg",
+    "overall": 3.6031176393114923
+  },
+  {
+    "image": "val_res_00151.jpg",
+    "overall": 3.5459369391659856
+  },
+  {
+    "image": "val_res_00152.jpg",
+    "overall": 3.6000445328613493
+  },
+  {
+    "image": "val_res_00153.jpg",
+    "overall": 3.6017212095891322
+  },
+  {
+    "image": "val_res_00154.jpg",
+    "overall": 3.5459369391659856
+  },
+  {
+    "image": "val_res_00155.jpg",
+    "overall": 3.494774995128949
+  },
+  {
+    "image": "val_res_00156.jpg",
+    "overall": 3.5628976911310977
+  },
+  {
+    "image": "val_res_00157.jpg",
+    "overall": 3.5930799540659004
+  },
+  {
+    "image": "val_res_00158.jpg",
+    "overall": 3.508974362486951
+  },
+  {
+    "image": "val_res_00159.jpg",
+    "overall": 3.5283440212672756
+  },
+  {
+    "image": "val_res_00160.jpg",
+    "overall": 3.5490110504584447
+  },
+  {
+    "image": "val_res_00161.jpg",
+    "overall": 3.3250011176650043
+  },
+  {
+    "image": "val_res_00162.jpg",
+    "overall": 3.6549951106350402
+  },
+  {
+    "image": "val_res_00163.jpg",
+    "overall": 3.5587696501215396
+  },
+  {
+    "image": "val_res_00164.jpg",
+    "overall": 3.5720638462665977
+  },
+  {
+    "image": "val_res_00165.jpg",
+    "overall": 3.6549951106350402
+  },
+  {
+    "image": "val_res_00166.jpg",
+    "overall": 2.8605477732874887
+  },
+  {
+    "image": "val_res_00167.jpg",
+    "overall": 3.6474313313625357
+  },
+  {
+    "image": "val_res_00168.jpg",
+    "overall": 3.5286236478055235
+  },
+  {
+    "image": "val_res_00169.jpg",
+    "overall": 3.6581263696699144
+  },
+  {
+    "image": "val_res_00170.jpg",
+    "overall": 3.27491492792795
+  },
+  {
+    "image": "val_res_00171.jpg",
+    "overall": 3.689266029615232
+  },
+  {
+    "image": "val_res_00172.jpg",
+    "overall": 3.543409752501666
+  },
+  {
+    "image": "val_res_00173.jpg",
+    "overall": 3.5571770694319653
+  },
+  {
+    "image": "val_res_00174.jpg",
+    "overall": 3.543409752501666
+  },
+  {
+    "image": "val_res_00175.jpg",
+    "overall": 3.5571770694319653
+  },
+  {
+    "image": "val_res_00176.jpg",
+    "overall": 3.485320139908295
+  },
+  {
+    "image": "val_res_00177.jpg",
+    "overall": 3.412606162454179
+  },
+  {
+    "image": "val_res_00178.jpg",
+    "overall": 3.644005974206062
+  },
+  {
+    "image": "val_res_00179.jpg",
+    "overall": 3.1829978159423202
+  },
+  {
+    "image": "val_res_00180.jpg",
+    "overall": 3.5202991224126445
+  },
+  {
+    "image": "val_res_00181.jpg",
+    "overall": 3.4794915100868478
+  },
+  {
+    "image": "val_res_00182.jpg",
+    "overall": 2.598639158223237
+  },
+  {
+    "image": "val_res_00183.jpg",
+    "overall": 3.472160231613724
+  },
+  {
+    "image": "val_res_00184.jpg",
+    "overall": 3.347692925384151
+  },
+  {
+    "image": "val_res_00185.jpg",
+    "overall": 2.715523909636203
+  },
+  {
+    "image": "val_res_00186.jpg",
+    "overall": 3.472160231613724
+  },
+  {
+    "image": "val_res_00187.jpg",
+    "overall": 3.5113266410194632
+  },
+  {
+    "image": "val_res_00188.jpg",
+    "overall": 3.5424383693018706
+  },
+  {
+    "image": "val_res_00189.jpg",
+    "overall": 3.5112397060842007
+  },
+  {
+    "image": "val_res_00190.jpg",
+    "overall": 3.4825231329520756
+  },
+  {
+    "image": "val_res_00191.jpg",
+    "overall": 2.8725986484276826
+  },
+  {
+    "image": "val_res_00192.jpg",
+    "overall": 3.412535097516317
+  },
+  {
+    "image": "val_res_00193.jpg",
+    "overall": 3.492213658590248
+  },
+  {
+    "image": "val_res_00194.jpg",
+    "overall": 3.473535396620586
+  },
+  {
+    "image": "val_res_00195.jpg",
+    "overall": 3.412535097516317
+  },
+  {
+    "image": "val_res_00196.jpg",
+    "overall": 2.934702571262501
+  },
+  {
+    "image": "val_res_00197.jpg",
+    "overall": 2.9375304157242113
+  },
+  {
+    "image": "val_res_00198.jpg",
+    "overall": 3.5420677584790052
+  },
+  {
+    "image": "val_res_00199.jpg",
+    "overall": 3.6306832933325044
+  },
+  {
+    "image": "val_res_00200.jpg",
+    "overall": 3.556263024750171
+  },
+  {
+    "image": "val_res_00201.jpg",
+    "overall": 3.3964608093210296
+  },
+  {
+    "image": "val_res_00202.jpg",
+    "overall": 3.352854034442582
+  },
+  {
+    "image": "val_res_00203.jpg",
+    "overall": 3.387236960384449
+  },
+  {
+    "image": "val_res_00204.jpg",
+    "overall": 3.3964608093210296
+  },
+  {
+    "image": "val_res_00205.jpg",
+    "overall": 3.352854034442582
+  },
+  {
+    "image": "val_res_00206.jpg",
+    "overall": 3.387236960384449
+  },
+  {
+    "image": "val_res_00207.jpg",
+    "overall": 3.3533850693750438
+  },
+  {
+    "image": "val_res_00208.jpg",
+    "overall": 3.299029612632698
+  },
+  {
+    "image": "val_res_00209.jpg",
+    "overall": 3.5333756515704873
+  },
+  {
+    "image": "val_res_00210.jpg",
+    "overall": 3.4457056765109777
+  },
+  {
+    "image": "val_res_00211.jpg",
+    "overall": 3.3736636395825363
+  },
+  {
+    "image": "val_res_00212.jpg",
+    "overall": 3.378975534480227
+  },
+  {
+    "image": "val_res_00213.jpg",
+    "overall": 3.466706519853902
+  },
+  {
+    "image": "val_res_00214.jpg",
+    "overall": 3.0559618013291616
+  },
+  {
+    "image": "val_res_00215.jpg",
+    "overall": 3.0913460768734535
+  },
+  {
+    "image": "val_res_00216.jpg",
+    "overall": 3.466706519853902
+  },
+  {
+    "image": "val_res_00217.jpg",
+    "overall": 2.987318639277362
+  },
+  {
+    "image": "val_res_00218.jpg",
+    "overall": 3.3924023680592734
+  },
+  {
+    "image": "val_res_00219.jpg",
+    "overall": 3.3490498732116265
+  },
+  {
+    "image": "val_res_00220.jpg",
+    "overall": 3.344769232620988
+  },
+  {
+    "image": "val_res_00221.jpg",
+    "overall": 3.4944442939849054
+  },
+  {
+    "image": "val_res_00222.jpg",
+    "overall": 3.5819355609469854
+  },
+  {
+    "image": "val_res_00223.jpg",
+    "overall": 3.5374839198851142
+  },
+  {
+    "image": "val_res_00224.jpg",
+    "overall": 3.4944442939849054
+  },
+  {
+    "image": "val_res_00225.jpg",
+    "overall": 3.5819355609469854
+  },
+  {
+    "image": "val_res_00226.jpg",
+    "overall": 3.5374839198851142
+  },
+  {
+    "image": "val_res_00227.jpg",
+    "overall": 3.585839823762382
+  },
+  {
+    "image": "val_res_00228.jpg",
+    "overall": 3.480175508813069
+  },
+  {
+    "image": "val_res_00229.jpg",
+    "overall": 3.5035665752571594
+  },
+  {
+    "image": "val_res_00230.jpg",
+    "overall": 3.459748897542756
+  },
+  {
+    "image": "val_res_00231.jpg",
+    "overall": 3.0519015394040485
+  },
+  {
+    "image": "val_res_00232.jpg",
+    "overall": 3.435561386564096
+  },
+  {
+    "image": "val_res_00233.jpg",
+    "overall": 3.5268445603224627
+  },
+  {
+    "image": "val_res_00234.jpg",
+    "overall": 3.569073069391653
+  },
+  {
+    "image": "val_res_00235.jpg",
+    "overall": 3.435561386564096
+  },
+  {
+    "image": "val_res_00236.jpg",
+    "overall": 2.7451658215696866
+  },
+  {
+    "image": "val_res_00237.jpg",
+    "overall": 3.420133760865791
+  },
+  {
+    "image": "val_res_00238.jpg",
+    "overall": 3.491431151536735
+  },
+  {
+    "image": "val_res_00239.jpg",
+    "overall": 3.4455159864091773
+  },
+  {
+    "image": "val_res_00240.jpg",
+    "overall": 3.5041590556974027
+  },
+  {
+    "image": "val_res_00241.jpg",
+    "overall": 3.537013153857135
+  },
+  {
+    "image": "val_res_00242.jpg",
+    "overall": 3.387751430422825
+  },
+  {
+    "image": "val_res_00243.jpg",
+    "overall": 3.432442937022464
+  },
+  {
+    "image": "val_res_00244.jpg",
+    "overall": 3.537013153857135
+  },
+  {
+    "image": "val_res_00245.jpg",
+    "overall": 3.387751430422825
+  },
+  {
+    "image": "val_res_00246.jpg",
+    "overall": 3.432442937022464
+  },
+  {
+    "image": "val_res_00247.jpg",
+    "overall": 3.454464642689336
+  },
+  {
+    "image": "val_res_00248.jpg",
+    "overall": 3.488353256258134
+  },
+  {
+    "image": "val_res_00249.jpg",
+    "overall": 3.5343600302274956
+  },
+  {
+    "image": "val_res_00250.jpg",
+    "overall": 3.4626506826309673
+  },
+  {
+    "image": "val_res_00251.jpg",
+    "overall": 3.4424032381974454
+  },
+  {
+    "image": "val_res_00252.jpg",
+    "overall": 3.134649341139811
+  },
+  {
+    "image": "val_res_00253.jpg",
+    "overall": 2.7807459720844987
+  },
+  {
+    "image": "val_res_00254.jpg",
+    "overall": 3.4424032381974454
+  },
+  {
+    "image": "val_res_00255.jpg",
+    "overall": 3.434186990999071
+  },
+  {
+    "image": "val_res_00256.jpg",
+    "overall": 3.1591119521324353
+  },
+  {
+    "image": "val_res_00257.jpg",
+    "overall": 3.504312098367458
+  },
+  {
+    "image": "val_res_00258.jpg",
+    "overall": 3.284068388015557
+  },
+  {
+    "image": "val_res_00259.jpg",
+    "overall": 3.484875510759567
+  },
+  {
+    "image": "val_res_00260.jpg",
+    "overall": 3.4537263583097992
+  },
+  {
+    "image": "val_res_00261.jpg",
+    "overall": 3.6147159994436215
+  },
+  {
+    "image": "val_res_00262.jpg",
+    "overall": 3.5572987593450196
+  },
+  {
+    "image": "val_res_00263.jpg",
+    "overall": 3.5371537272067757
+  },
+  {
+    "image": "val_res_00264.jpg",
+    "overall": 3.6147159994436215
+  },
+  {
+    "image": "val_res_00265.jpg",
+    "overall": 3.5572987593450196
+  },
+  {
+    "image": "val_res_00266.jpg",
+    "overall": 3.5371537272067757
+  },
+  {
+    "image": "val_res_00267.jpg",
+    "overall": 3.6163251960519185
+  },
+  {
+    "image": "val_res_00268.jpg",
+    "overall": 3.2086021077226867
+  },
+  {
+    "image": "val_res_00269.jpg",
+    "overall": 3.585753993764688
+  },
+  {
+    "image": "val_res_00270.jpg",
+    "overall": 3.586326550339832
+  },
+  {
+    "image": "val_res_00271.jpg",
+    "overall": 2.7990375527150233
+  },
+  {
+    "image": "val_res_00272.jpg",
+    "overall": 3.427156182875089
+  },
+  {
+    "image": "val_res_00273.jpg",
+    "overall": 3.570042235885751
+  },
+  {
+    "image": "val_res_00274.jpg",
+    "overall": 3.438828501304625
+  },
+  {
+    "image": "val_res_00275.jpg",
+    "overall": 3.427156182875089
+  },
+  {
+    "image": "val_res_00276.jpg",
+    "overall": 2.7497876565261454
+  },
+  {
+    "image": "val_res_00277.jpg",
+    "overall": 3.3175172378762023
+  },
+  {
+    "image": "val_res_00278.jpg",
+    "overall": 3.475800986428758
+  },
+  {
+    "image": "val_res_00279.jpg",
+    "overall": 3.439177511793784
+  },
+  {
+    "image": "val_res_00280.jpg",
+    "overall": 2.8103602093453173
+  },
+  {
+    "image": "val_res_00281.jpg",
+    "overall": 3.6424262428085847
+  },
+  {
+    "image": "val_res_00282.jpg",
+    "overall": 3.467448500928849
+  },
+  {
+    "image": "val_res_00283.jpg",
+    "overall": 3.474162232575067
+  },
+  {
+    "image": "val_res_00284.jpg",
+    "overall": 3.6424262428085847
+  },
+  {
+    "image": "val_res_00285.jpg",
+    "overall": 3.6286838276531626
+  },
+  {
+    "image": "val_res_00286.jpg",
+    "overall": 3.600146493327172
+  },
+  {
+    "image": "val_res_00287.jpg",
+    "overall": 3.643716651178479
+  },
+  {
+    "image": "val_res_00288.jpg",
+    "overall": 3.700933623544253
+  },
+  {
+    "image": "val_res_00289.jpg",
+    "overall": 3.6285934790890586
+  },
+  {
+    "image": "val_res_00290.jpg",
+    "overall": 3.667617615842257
+  },
+  {
+    "image": "val_res_00291.jpg",
+    "overall": 3.4425924882196686
+  },
+  {
+    "image": "val_res_00292.jpg",
+    "overall": 3.456832954548719
+  },
+  {
+    "image": "val_res_00293.jpg",
+    "overall": 3.4533242743694674
+  },
+  {
+    "image": "val_res_00294.jpg",
+    "overall": 3.1652061377304026
+  },
+  {
+    "image": "val_res_00295.jpg",
+    "overall": 3.0650743429882104
+  },
+  {
+    "image": "val_res_00296.jpg",
+    "overall": 3.4533242743694674
+  },
+  {
+    "image": "val_res_00297.jpg",
+    "overall": 3.0271665568122073
+  },
+  {
+    "image": "val_res_00298.jpg",
+    "overall": 3.526703037089829
+  },
+  {
+    "image": "val_res_00299.jpg",
+    "overall": 3.3442367910385733
+  },
+  {
+    "image": "val_res_00300.jpg",
+    "overall": 3.399142541608231
+  },
+  {
+    "image": "val_res_00301.jpg",
+    "overall": 3.3787939469461064
+  },
+  {
+    "image": "val_res_00302.jpg",
+    "overall": 3.328216068416372
+  },
+  {
+    "image": "val_res_00303.jpg",
+    "overall": 3.242528722484508
+  },
+  {
+    "image": "val_res_00304.jpg",
+    "overall": 3.3787939469461064
+  },
+  {
+    "image": "val_res_00305.jpg",
+    "overall": 3.328216068416372
+  },
+  {
+    "image": "val_res_00306.jpg",
+    "overall": 3.242528722484508
+  },
+  {
+    "image": "val_res_00307.jpg",
+    "overall": 3.334735726907402
+  },
+  {
+    "image": "val_res_00308.jpg",
+    "overall": 3.3328291945586774
+  },
+  {
+    "image": "val_res_00309.jpg",
+    "overall": 3.3349890318539597
+  },
+  {
+    "image": "val_res_00310.jpg",
+    "overall": 3.3842403939761256
+  },
+  {
+    "image": "val_res_00311.jpg",
+    "overall": 3.5328883005398803
+  },
+  {
+    "image": "val_res_00312.jpg",
+    "overall": 3.515728355278862
+  },
+  {
+    "image": "val_res_00313.jpg",
+    "overall": 3.5231217586543644
+  },
+  {
+    "image": "val_res_00314.jpg",
+    "overall": 3.5328883005398803
+  },
+  {
+    "image": "val_res_00315.jpg",
+    "overall": 3.515728355278862
+  },
+  {
+    "image": "val_res_00316.jpg",
+    "overall": 3.5231217586543644
+  },
+  {
+    "image": "val_res_00317.jpg",
+    "overall": 3.5179135971340076
+  },
+  {
+    "image": "val_res_00318.jpg",
+    "overall": 3.3202610648939612
+  },
+  {
+    "image": "val_res_00319.jpg",
+    "overall": 3.477720790834251
+  },
+  {
+    "image": "val_res_00320.jpg",
+    "overall": 3.4778042008738685
+  },
+  {
+    "image": "val_res_00321.jpg",
+    "overall": 3.2959869183264074
+  },
+  {
+    "image": "val_res_00322.jpg",
+    "overall": 2.784945562157764
+  },
+  {
+    "image": "val_res_00323.jpg",
+    "overall": 3.4606851845854436
+  },
+  {
+    "image": "val_res_00324.jpg",
+    "overall": 3.2959869183264074
+  },
+  {
+    "image": "val_res_00325.jpg",
+    "overall": 2.784945562157764
+  },
+  {
+    "image": "val_res_00326.jpg",
+    "overall": 3.4606851845854436
+  },
+  {
+    "image": "val_res_00327.jpg",
+    "overall": 3.1986942937655845
+  },
+  {
+    "image": "val_res_00328.jpg",
+    "overall": 3.306002908164455
+  },
+  {
+    "image": "val_res_00329.jpg",
+    "overall": 3.263525758204101
+  },
+  {
+    "image": "val_res_00330.jpg",
+    "overall": 3.301800080070098
+  },
+  {
+    "image": "val_res_00331.jpg",
+    "overall": 3.443429926244349
+  },
+  {
+    "image": "val_res_00332.jpg",
+    "overall": 3.4471588819060752
+  },
+  {
+    "image": "val_res_00333.jpg",
+    "overall": 3.30747339318362
+  },
+  {
+    "image": "val_res_00334.jpg",
+    "overall": 1.8696209957069863
+  },
+  {
+    "image": "val_res_00335.jpg",
+    "overall": 1.7789056419764977
+  },
+  {
+    "image": "val_res_00336.jpg",
+    "overall": 3.30747339318362
+  },
+  {
+    "image": "val_res_00337.jpg",
+    "overall": 3.3026961307744402
+  },
+  {
+    "image": "val_res_00338.jpg",
+    "overall": 3.4200213215819315
+  },
+  {
+    "image": "val_res_00339.jpg",
+    "overall": 3.267861188433796
+  },
+  {
+    "image": "val_res_00340.jpg",
+    "overall": 3.485861151131612
+  },
+  {
+    "image": "val_res_00341.jpg",
+    "overall": 3.4666270073080807
+  },
+  {
+    "image": "val_res_00342.jpg",
+    "overall": 3.3991129295820945
+  },
+  {
+    "image": "val_res_00343.jpg",
+    "overall": 3.3701819954220147
+  },
+  {
+    "image": "val_res_00344.jpg",
+    "overall": 3.322513117742692
+  },
+  {
+    "image": "val_res_00345.jpg",
+    "overall": 3.185800624923588
+  },
+  {
+    "image": "val_res_00346.jpg",
+    "overall": 3.3701819954220147
+  },
+  {
+    "image": "val_res_00347.jpg",
+    "overall": 3.4414017890315285
+  },
+  {
+    "image": "val_res_00348.jpg",
+    "overall": 3.4537180365526665
+  },
+  {
+    "image": "val_res_00349.jpg",
+    "overall": 3.407860113812173
+  },
+  {
+    "image": "val_res_00350.jpg",
+    "overall": 3.3438212905459612
+  },
+  {
+    "image": "val_res_00351.jpg",
+    "overall": 2.6546140425957505
+  },
+  {
+    "image": "val_res_00352.jpg",
+    "overall": 3.5437414340331994
+  },
+  {
+    "image": "val_res_00353.jpg",
+    "overall": 3.521553118762392
+  },
+  {
+    "image": "val_res_00354.jpg",
+    "overall": 2.6546140425957505
+  },
+  {
+    "image": "val_res_00355.jpg",
+    "overall": 3.5437414340331994
+  },
+  {
+    "image": "val_res_00356.jpg",
+    "overall": 3.521553118762392
+  },
+  {
+    "image": "val_res_00357.jpg",
+    "overall": 3.5756388119216034
+  },
+  {
+    "image": "val_res_00358.jpg",
+    "overall": 3.49883752180109
+  },
+  {
+    "image": "val_res_00359.jpg",
+    "overall": 3.5893671165476864
+  },
+  {
+    "image": "val_res_00360.jpg",
+    "overall": 3.5115308322038006
+  },
+  {
+    "image": "val_res_00361.jpg",
+    "overall": 3.550765186365426
+  },
+  {
+    "image": "val_res_00362.jpg",
+    "overall": 3.543409752501666
+  },
+  {
+    "image": "val_res_00363.jpg",
+    "overall": 3.5859851627517565
+  },
+  {
+    "image": "val_res_00364.jpg",
+    "overall": 3.4010142670821186
+  },
+  {
+    "image": "val_res_00365.jpg",
+    "overall": 3.60245605267498
+  },
+  {
+    "image": "val_res_00366.jpg",
+    "overall": 3.5859851627517565
+  },
+  {
+    "image": "val_res_00367.jpg",
+    "overall": 3.500442811539953
+  },
+  {
+    "image": "val_res_00368.jpg",
+    "overall": 3.4276532953020538
+  },
+  {
+    "image": "val_res_00369.jpg",
+    "overall": 3.553581200225213
+  },
+  {
+    "image": "val_res_00370.jpg",
+    "overall": 3.5393596516450847
+  },
+  {
+    "image": "val_res_00371.jpg",
+    "overall": 3.5895792752738167
+  },
+  {
+    "image": "val_res_00372.jpg",
+    "overall": 3.258338637745142
+  },
+  {
+    "image": "val_res_00373.jpg",
+    "overall": 3.419290391938323
+  },
+  {
+    "image": "val_res_00374.jpg",
+    "overall": 3.5895792752738167
+  },
+  {
+    "image": "val_res_00375.jpg",
+    "overall": 3.4152169350939428
+  },
+  {
+    "image": "val_res_00376.jpg",
+    "overall": 3.475623327633897
+  },
+  {
+    "image": "val_res_00377.jpg",
+    "overall": 3.4794915100868478
+  },
+  {
+    "image": "val_res_00378.jpg",
+    "overall": 3.4795750289299865
+  },
+  {
+    "image": "val_res_00379.jpg",
+    "overall": 3.388988048127996
+  },
+  {
+    "image": "val_res_00380.jpg",
+    "overall": 3.5328122218129625
+  },
+  {
+    "image": "val_res_00381.jpg",
+    "overall": 3.4345108468538266
+  },
+  {
+    "image": "val_res_00382.jpg",
+    "overall": 3.398346920418721
+  },
+  {
+    "image": "val_res_00383.jpg",
+    "overall": 3.482531590085405
+  },
+  {
+    "image": "val_res_00384.jpg",
+    "overall": 3.4345108468538266
+  },
+  {
+    "image": "val_res_00385.jpg",
+    "overall": 3.398346920418721
+  },
+  {
+    "image": "val_res_00386.jpg",
+    "overall": 3.482531590085405
+  },
+  {
+    "image": "val_res_00387.jpg",
+    "overall": 3.43785983977402
+  },
+  {
+    "image": "val_res_00388.jpg",
+    "overall": 3.4224952854768773
+  },
+  {
+    "image": "val_res_00389.jpg",
+    "overall": 3.4313948480198784
+  },
+  {
+    "image": "val_res_00390.jpg",
+    "overall": 3.4224952854768773
+  },
+  {
+    "image": "val_res_00391.jpg",
+    "overall": 3.576825381979341
+  },
+  {
+    "image": "val_res_00392.jpg",
+    "overall": 3.531185457595428
+  },
+  {
+    "image": "val_res_00393.jpg",
+    "overall": 3.555082034615392
+  },
+  {
+    "image": "val_res_00394.jpg",
+    "overall": 3.576825381979341
+  },
+  {
+    "image": "val_res_00395.jpg",
+    "overall": 3.531185457595428
+  },
+  {
+    "image": "val_res_00396.jpg",
+    "overall": 3.555082034615392
+  },
+  {
+    "image": "val_res_00397.jpg",
+    "overall": 3.56545869886177
+  },
+  {
+    "image": "val_res_00398.jpg",
+    "overall": 3.3710849291397995
+  },
+  {
+    "image": "val_res_00399.jpg",
+    "overall": 3.534393133848808
+  },
+  {
+    "image": "val_res_00400.jpg",
+    "overall": 3.555082034615392
+  },
+  {
+    "image": "val_res_00401.jpg",
+    "overall": 3.482443326070509
+  },
+  {
+    "image": "val_res_00402.jpg",
+    "overall": 2.9924257222323423
+  },
+  {
+    "image": "val_res_00403.jpg",
+    "overall": 2.90222244300943
+  },
+  {
+    "image": "val_res_00404.jpg",
+    "overall": 3.482443326070509
+  },
+  {
+    "image": "val_res_00405.jpg",
+    "overall": 3.5035665752571594
+  },
+  {
+    "image": "val_res_00406.jpg",
+    "overall": 3.5509446276440886
+  },
+  {
+    "image": "val_res_00407.jpg",
+    "overall": 3.553102813429747
+  },
+  {
+    "image": "val_res_00408.jpg",
+    "overall": 3.4795943121477864
+  },
+  {
+    "image": "val_res_00409.jpg",
+    "overall": 3.517961576992068
+  },
+  {
+    "image": "val_res_00410.jpg",
+    "overall": 3.533486083640573
+  },
+  {
+    "image": "val_res_00411.jpg",
+    "overall": 3.500442811539953
+  },
+  {
+    "image": "val_res_00412.jpg",
+    "overall": 2.8833385058818854
+  },
+  {
+    "image": "val_res_00413.jpg",
+    "overall": 3.0015837093231172
+  },
+  {
+    "image": "val_res_00414.jpg",
+    "overall": 3.500442811539953
+  },
+  {
+    "image": "val_res_00415.jpg",
+    "overall": 3.4447816719496567
+  },
+  {
+    "image": "val_res_00416.jpg",
+    "overall": 3.5393596516450847
+  },
+  {
+    "image": "val_res_00417.jpg",
+    "overall": 3.4559126006774186
+  },
+  {
+    "image": "val_res_00418.jpg",
+    "overall": 2.735030739752319
+  },
+  {
+    "image": "val_res_00419.jpg",
+    "overall": 3.4680246398847006
+  },
+  {
+    "image": "val_res_00420.jpg",
+    "overall": 3.4686081446476615
+  },
+  {
+    "image": "val_res_00421.jpg",
+    "overall": 3.445057558695642
+  },
+  {
+    "image": "val_res_00422.jpg",
+    "overall": 1.8420461271091515
+  },
+  {
+    "image": "val_res_00423.jpg",
+    "overall": 1.6411326148626648
+  },
+  {
+    "image": "val_res_00424.jpg",
+    "overall": 3.445057558695642
+  },
+  {
+    "image": "val_res_00425.jpg",
+    "overall": 3.3746321556681345
+  },
+  {
+    "image": "val_res_00426.jpg",
+    "overall": 3.3746321556681345
+  },
+  {
+    "image": "val_res_00427.jpg",
+    "overall": 3.521829078635516
+  },
+  {
+    "image": "val_res_00428.jpg",
+    "overall": 3.343916375363656
+  },
+  {
+    "image": "val_res_00429.jpg",
+    "overall": 1.6595192199057485
+  },
+  {
+    "image": "val_res_00430.jpg",
+    "overall": 3.3953010640478274
+  },
+  {
+    "image": "val_res_00431.jpg",
+    "overall": 3.5859273209281843
+  },
+  {
+    "image": "val_res_00432.jpg",
+    "overall": 3.6998188382314483
+  },
+  {
+    "image": "val_res_00433.jpg",
+    "overall": 3.61490484239203
+  },
+  {
+    "image": "val_res_00434.jpg",
+    "overall": 3.189625062428423
+  },
+  {
+    "image": "val_res_00435.jpg",
+    "overall": 3.115527567510754
+  },
+  {
+    "image": "val_res_00436.jpg",
+    "overall": 3.61490484239203
+  },
+  {
+    "image": "val_res_00437.jpg",
+    "overall": 3.646356396394821
+  },
+  {
+    "image": "val_res_00438.jpg",
+    "overall": 3.6757344697839596
+  },
+  {
+    "image": "val_res_00439.jpg",
+    "overall": 3.1662631966093144
+  },
+  {
+    "image": "val_res_00440.jpg",
+    "overall": 3.612895143646253
+  },
+  {
+    "image": "val_res_00441.jpg",
+    "overall": 3.621392935174619
+  },
+  {
+    "image": "val_res_00442.jpg",
+    "overall": 3.472462676310708
+  },
+  {
+    "image": "val_res_00443.jpg",
+    "overall": 3.528784242203637
+  },
+  {
+    "image": "val_res_00444.jpg",
+    "overall": 3.4871631236821736
+  },
+  {
+    "image": "val_res_00445.jpg",
+    "overall": 3.472462676310708
+  },
+  {
+    "image": "val_res_00446.jpg",
+    "overall": 3.5107598921589727
+  },
+  {
+    "image": "val_res_00447.jpg",
+    "overall": 3.5716746982303964
+  },
+  {
+    "image": "val_res_00448.jpg",
+    "overall": 3.6037110045802043
+  },
+  {
+    "image": "val_res_00449.jpg",
+    "overall": 3.4510652653160374
+  },
+  {
+    "image": "val_res_00450.jpg",
+    "overall": 3.5065271270644542
+  },
+  {
+    "image": "val_res_00451.jpg",
+    "overall": 3.543644364494138
+  },
+  {
+    "image": "val_res_00452.jpg",
+    "overall": 3.167540209323403
+  },
+  {
+    "image": "val_res_00453.jpg",
+    "overall": 3.229353354526719
+  },
+  {
+    "image": "val_res_00454.jpg",
+    "overall": 3.543644364494138
+  },
+  {
+    "image": "val_res_00455.jpg",
+    "overall": 3.5310993541593287
+  },
+  {
+    "image": "val_res_00456.jpg",
+    "overall": 3.6053540614772777
+  },
+  {
+    "image": "val_res_00457.jpg",
+    "overall": 3.620156226446008
+  },
+  {
+    "image": "val_res_00458.jpg",
+    "overall": 3.489543980638606
+  },
+  {
+    "image": "val_res_00459.jpg",
+    "overall": 3.559582629281204
+  },
+  {
+    "image": "val_res_00460.jpg",
+    "overall": 3.5415754530981842
+  },
+  {
+    "image": "val_res_00461.jpg",
+    "overall": 3.5840849975401063
+  },
+  {
+    "image": "val_res_00462.jpg",
+    "overall": 3.630106863969746
+  },
+  {
+    "image": "val_res_00463.jpg",
+    "overall": 3.5861134337464073
+  },
+  {
+    "image": "val_res_00464.jpg",
+    "overall": 3.5840849975401063
+  },
+  {
+    "image": "val_res_00465.jpg",
+    "overall": 3.630106863969746
+  },
+  {
+    "image": "val_res_00466.jpg",
+    "overall": 3.5861134337464073
+  },
+  {
+    "image": "val_res_00467.jpg",
+    "overall": 3.599935103317903
+  },
+  {
+    "image": "val_res_00468.jpg",
+    "overall": 3.645839627374538
+  },
+  {
+    "image": "val_res_00469.jpg",
+    "overall": 2.6024614902200263
+  },
+  {
+    "image": "val_res_00470.jpg",
+    "overall": 3.5556488060407987
+  },
+  {
+    "image": "val_res_00471.jpg",
+    "overall": 3.452338014638918
+  },
+  {
+    "image": "val_res_00472.jpg",
+    "overall": 3.5008190496907465
+  },
+  {
+    "image": "val_res_00473.jpg",
+    "overall": 3.5484012231068
+  },
+  {
+    "image": "val_res_00474.jpg",
+    "overall": 3.452338014638918
+  },
+  {
+    "image": "val_res_00475.jpg",
+    "overall": 3.5008190496907465
+  },
+  {
+    "image": "val_res_00476.jpg",
+    "overall": 3.5484012231068
+  },
+  {
+    "image": "val_res_00477.jpg",
+    "overall": 3.520101126433394
+  },
+  {
+    "image": "val_res_00478.jpg",
+    "overall": 3.452287874623244
+  },
+  {
+    "image": "val_res_00479.jpg",
+    "overall": 3.3156340478731954
+  },
+  {
+    "image": "val_res_00480.jpg",
+    "overall": 3.469014684612621
+  },
+  {
+    "image": "val_res_00481.jpg",
+    "overall": 3.616355215840663
+  },
+  {
+    "image": "val_res_00482.jpg",
+    "overall": 3.572461418467488
+  },
+  {
+    "image": "val_res_00483.jpg",
+    "overall": 3.4836734358405748
+  },
+  {
+    "image": "val_res_00484.jpg",
+    "overall": 3.616355215840663
+  },
+  {
+    "image": "val_res_00485.jpg",
+    "overall": 3.572461418467488
+  },
+  {
+    "image": "val_res_00486.jpg",
+    "overall": 3.4836734358405748
+  },
+  {
+    "image": "val_res_00487.jpg",
+    "overall": 3.4876828693608912
+  },
+  {
+    "image": "val_res_00488.jpg",
+    "overall": 3.505662609094978
+  },
+  {
+    "image": "val_res_00489.jpg",
+    "overall": 3.5688224636839183
+  },
+  {
+    "image": "val_res_00490.jpg",
+    "overall": 3.1922400878430675
+  },
+  {
+    "image": "val_res_00491.jpg",
+    "overall": 3.5755776994102506
+  },
+  {
+    "image": "val_res_00492.jpg",
+    "overall": 3.5294207807136226
+  },
+  {
+    "image": "val_res_00493.jpg",
+    "overall": 3.5642368594388785
+  },
+  {
+    "image": "val_res_00494.jpg",
+    "overall": 3.5755776994102506
+  },
+  {
+    "image": "val_res_00495.jpg",
+    "overall": 3.5294207807136226
+  },
+  {
+    "image": "val_res_00496.jpg",
+    "overall": 3.5642368594388785
+  },
+  {
+    "image": "val_res_00497.jpg",
+    "overall": 3.562915306281509
+  },
+  {
+    "image": "val_res_00498.jpg",
+    "overall": 3.5437414340331994
+  },
+  {
+    "image": "val_res_00499.jpg",
+    "overall": 3.5179999710361773
+  },
+  {
+    "image": "val_res_00500.jpg",
+    "overall": 2.9441855110659314
+  }
+]
